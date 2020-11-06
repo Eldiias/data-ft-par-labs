@@ -83,16 +83,6 @@ Tip: you have only 15 minutes for this presentation so keep it simple!
 - **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
 - **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
 
-## Suggested Ways to Get Started
-
-* **Find a data set to process** - a great place to start looking would be [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets) and [Kaggle Data Sets](https://www.kaggle.com/datasets).
-* **Explore the data set** and come up with a variety of visualizations that you can potentially include in your story.
-* **Break the project down into different steps** - identify the entities/dimensions in your data set, explore them each individually, and then progress to analyzing different combinations of them.
-* **Use the tools in your tool kit** - the concepts and methods you have learned in the business intelligence chapter as well as some of the things you've learned in previous chapters. This is a great way to start tying everything you've learned together!
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
-
 ## Suggested Steps for Data Processing
 
 - Explore data and understand what the fields using pandas functions like info(), describe() etc...
