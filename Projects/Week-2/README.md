@@ -43,7 +43,7 @@ The technical requirements for this project are as follows:
 * Produce a Jupyter Notebook that shows the steps you took and the code you used to clean and transform your data set.
 * Export clean version of your data into CSV file using Pandas.
 * Export clean data into MySQL using Pandas.
-* Prepare at least 3 tables analyzing the dataset in MySQL. Consider using **group by** statement for it.
+* Prepare at least 3 tables analyzing the dataset in MySQL. Consider using ``group by`` statement for it.
 * You should also include a [README.md](./README-template.md) file that describes the steps you took and your thought process as you built your project.
 
 ## Necessary Deliverables
@@ -59,7 +59,7 @@ The following deliverables should be pushed to your Github repo for this chapter
 
 The presentation time limit is **5 minutes**! You will have **3 minutes** to present your project to the class and then **2 minutes** for Q&A.
 
-The slides of your presentation must include the content listed below and a demo of your game:
+The slides of your presentation must include the content listed below:
 
 - Title of the project + Student name
 - Description of your game
@@ -74,7 +74,7 @@ Tip: you have only 3 minutes for this presentation so keep it simple!
 
 ## Suggested Ways to Get Started
 
-- **Examine the data and come up with a deliverable** before diving in and applying any manipulation methods. Specify the specific task beforehand. You will proabably spend less time on project if you specify the task and expected outcomes beforehand. Raise questions, come up with some hypotheses to be tested.
+- **Examine the data and come up with a deliverable** before diving in and applying any manipulation methods. Specify the specific task beforehand. You will probably spend less time on project if you specify the task and expected outcomes beforehand. Raise questions, come up with some hypotheses to be tested.
 - **Break the project down into different steps** - use the topics covered in the lessons to form a check list, add anything else you can think of that may be wrong with your data set, and then work through the check list.
 - **Use the tools in your tool kit** - your knowledge of intermediate Python as well as some of the things you've learned in previous chapters. This is a great way to start tying everything you've learned together!
 - **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... *procrastinating*.

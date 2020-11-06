@@ -2,7 +2,16 @@
 
 # Project: API and Web Data Scraping
 
-## Overview
+## Content
+- [Project Description](#project-description)
+- [Project Goals](#project-goals)
+- [Technical Requirements](#technical-requirements)
+- [Necessary Deliverables](#necessary-deliverables)
+- [Presentation](#presentation)
+- [Suggested Ways to Get Started](#suggested-ways-to-get-started)
+- [Useful Resources](#useful-resources)
+
+## Project Description
 
 The goal of this project is for you to perform a data collection from open sources, or basically practice what you have learned in the APIs and Web Scraping chapter. For this project, you will choose both an API to obtain data from and a web page to scrape. 
 
@@ -11,6 +20,15 @@ You will need to collect a database based on the chosen web-site. Depending on t
 **You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
 
 ---
+## Project Goals
+
+During this project you will:
+
+- Manage your own git repository.
+- Build your own code from scratch.
+- Get your hands on data collection and efficient code.
+- Put into practice data processing concepts learned so far.
+- Practice public presentations skills.
 
 ## Technical Requirements
 
@@ -30,6 +48,24 @@ The following deliverables should be pushed to your Github repo for this chapter
 * **A Jupyter Notebook (.ipynb) file** that contains the code used to get the data. 
 * **An output folder** containing the outputs of your API and scraping efforts.
 * **A ``README.md`` file** containing a detailed explanation of your approach and code for retrieving data from the API and scraping the web page as well as your results, obstacles encountered, and lessons learned.
+
+## Presentation
+
+The presentation time limit is **10 minutes**! You will have **7 minutes** to present your project to the class and then **3 minutes** for Q&A.
+
+The slides of your presentation must include the content listed below:
+
+- Title of the project + Student name
+- Description of your idea and project
+- Challenges
+- Process
+- Learnings
+- If I were to start from scratch...
+- Improvements
+- Highlights
+
+Tip: you have only 7 minutes for this presentation so keep it simple!
+
 
 ## Suggested Ways to Get Started
 
