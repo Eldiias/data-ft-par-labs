@@ -1,4 +1,5 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+
 # Build you own game!
 ## Content
 - [Project Description](#project-description)

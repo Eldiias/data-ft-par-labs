@@ -1,4 +1,5 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+
 # Clean your data!
 ## Content
 - [Project Description](#project-description)
