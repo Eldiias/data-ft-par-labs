@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Who am I
 
-* Where are you from? North of France
+* Where are you from? 
 * What do you do? I'm between jobs.
 * Do you have previous experience with technology/data? No.
 
@@ -15,6 +15,3 @@
 * Which industry will you seek employment in? Health industry.
 * What will your future role look like? DA or DM
 * What is your career goal? who knows?
-=======
-SECOND ATTEMPT - This is to create a conflicting change on purpose between local repo and remote. 
->>>>>>> main
