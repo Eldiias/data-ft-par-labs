@@ -37,8 +37,6 @@ Outline the workflow you used in your project. What are the steps you went throu
 What does your repository look like? Explain your folder and file structure.
 
 ## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/chrisvinhston/data-ft-par-labs/blob/main/Projects/Week-1/your-project/BlackJack.ipynb)
+[Slides](https://docs.google.com/presentation/d/1jyxPKXOjTPu8dM7cE8SK58oepwFHiTDYR1dkvtwmIqU/edit#slide=id.g442eb61d9d_0_7)  
+[Trello](https://trello.com/b/cHKQYyHX/black-jack)  
