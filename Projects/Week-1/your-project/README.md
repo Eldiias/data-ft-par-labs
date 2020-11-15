@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# BlackJack Project
+*[Ludovica]*
 
-*[Your Cohort, Campus & Date]*
+*[FT-NOV20, Paris & November2020]*
 
 ## Content
 - [Project Description](#project-description)
