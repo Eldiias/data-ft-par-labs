@@ -13,16 +13,31 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
-
+The porject consists in researching the blackjack card game and code it via Python.
 ## Rules
-Describe briefly the rules of the game you chose. 
+First each player is dealt two cards. 
+
+Goal: is to have cards that sum to 21 or a higher count than those of the dealer
+
+Players lose when:
+* bust - sum of cards exceeding 21
+* one player sum of cards  > the
+   other
+   
+Hit: ask for  another card 
+
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Step1: Research the Game & Plan with Trello 
+Step2: Design the Game Structure
+Step3: Make the Game Code
+Step4: Error Handling
+Step5: Testing the game
 
 ## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
+All the steps to be done were tracked on Trello
+https://trello.com/b/cHKQYyHX/black-jack
+
 
 What does your repository look like? Explain your folder and file structure.
 
