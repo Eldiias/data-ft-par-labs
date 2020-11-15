@@ -6,7 +6,7 @@
 
 *[Ludovica]*
 
-*[FT-NOV20, Paris & November2020]*
+*[Data Analytics FT-NOV20, Paris & November2020]*
 
 ## Content
 - [Project Description](#project-description)
