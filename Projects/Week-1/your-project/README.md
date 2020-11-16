@@ -35,6 +35,7 @@ Outline the workflow you used in your project. What are the steps you went throu
 -tested the game
 
 What does your repository look like? Explain your folder and file structure.
+-The repo is organized with the .gitignore file, the game blackjack and the readme.md.
 
 ## Links
 [Repository](https://github.com/chrisvinhston/data-ft-par-labs/blob/main/Projects/Week-1/your-project/BlackJack.ipynb)
