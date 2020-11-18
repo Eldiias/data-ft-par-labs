@@ -4,21 +4,28 @@
 
 Please, connect to the Data Bootcamp Google Database using the credentials provided in class. Choose the database called *appleStore*. Use the *data* table to query the data about Apple Store Apps and answer the following questions: 
 
-**1. What are the different genres?**
+**1. What are the different genres?**23 different genres
 
-**2. Which is the genre with the most apps rated?**
+**2. Which is the genre with the most apps rated?**  GAMES
 
-**3. Which is the genre with most apps?**
+**3. Which is the genre with most apps?** GAMES
 
-**4. Which is the one with least?**
+**4. Which is the one with least?** Catalogs
 
-**5. Find the top 10 apps most rated.**
+**5. Find the top 10 apps most rated.** FaceBook, insta, clash of clans, temple run, pandora, pinterest,Bible, candy crush saga, SPotify music, angry birds. 
 
-**6. Find the top 10 apps best rated by users.**
+**6. Find the top 10 apps best rated by users.**  
 
 **7. Take a look at the data you retrieved in question 5. Give some insights.**
+	 MOst of the apps are either social networks or games.  
+	and the fact that a lot users rated it can tell us that those apps are the most installed apps.  
+	At the same time the more time the people use the app the more likely they gonna score you below 5.
+
 
 **8. Take a look at the data you retrieved in question 6. Give some insights.**
+	 We can see top 10 apps with higher user rating of 5 given highest amount of people scored.  
+	Most of them are games and the fact that .5 million scored 5.  otherwise cant get score 5.  
+	indicates some fraud.  Hence, I would restrict those apps from my data. 
 
 **9. Now compare the data from questions 5 and 6. What do you see?**
 
