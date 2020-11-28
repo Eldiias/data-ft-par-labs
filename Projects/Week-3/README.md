@@ -1,4 +1,4 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+![IronHack Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1eh9yux7w8iql.cloudfront.net%2Ffo%2Fimg%2Frelovethepreloved.png&imgrefurl=https%3A%2F%2Fwww.backmarket.fr%2Fordinateur-portable-reconditionne.html&tbnid=VL3Yfb0SQ3NzoM&vet=12ahUKEwiYm_3bg6btAhUJ2OAKHfL1CzkQMygBegUIARCeAg..i&docid=RGQCcxhA_2WgMM&w=1201&h=601&q=back%20market%20computer&ved=2ahUKEwiYm_3bg6btAhUJ2OAKHfL1CzkQMygBegUIARCeAg)
 
 # Project: API and Web Data Scraping
 
