@@ -1,20 +1,18 @@
+
 # Who am I
 
-* Where are you from? Spain
-* What do you do? I'm having fun while living 
-* Do you have previous experience with technology/data? Yes, I'm working on IT support
+* Where are you from?
+* What do you do?
+* Do you have previous experience with technology/data?
 
 # Why am I here
 
-* What has brought you to Ironhack? boost my career
+* What has brought you to Ironhack?
 * What knowledge/skills do you expect to learn in this bootcamp?
-programing,
-Engeneiring,
-Science,
-Probabiliy and Statistics,
 
-# What will I do after the bootcamp? find another working path
+# What will I do after the bootcamp?
 
-* Which industry will you seek employment in? Retailers
-* What will your future role look like? Product owner or Data analysts
-* What is your career goal? Earn money while having fun
+* Which industry will you seek employment in?
+* What will your future role look like?
+* What is your career goal?
+
