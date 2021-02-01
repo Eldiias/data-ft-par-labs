@@ -8,10 +8,10 @@
 
 * What has brought you to Ironhack? boost my career
 * What knowledge/skills do you expect to learn in this bootcamp?
-programing
-Engeneiring
-Science
-Probabiliy and Statistics
+programing,
+Engeneiring,
+Science,
+Probabiliy and Statistics,
 
 # What will I do after the bootcamp? find another working path
 
