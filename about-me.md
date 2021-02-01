@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Who am I
 
 * Where are you from?
@@ -14,3 +15,6 @@
 * Which industry will you seek employment in?
 * What will your future role look like?
 * What is your career goal?
+=======
+bla bla bla
+>>>>>>> 479031401d20522954c4006fcb988402d3284b50
