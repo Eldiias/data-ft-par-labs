@@ -1,0 +1,13 @@
+code,name,currency,regions_count,users_count,wines_count,wineries_count
+es,Espagne,EUR,149.0,1762558.0,115886.0,16586.0
+ar,Argentine,ARS,37.0,472406.0,40357.0,4580.0
+us,États-Unis,USD,353.0,9099772.0,219564.0,25498.0
+fr,France,EUR,1280.0,3790550.0,481923.0,64952.0
+it,Italie,EUR,554.0,3316490.0,319571.0,39095.0
+pt,Portugal,EUR,91.0,796399.0,44838.0,5392.0
+nz,Nouvelle-Zélande,NZD,35.0,70831.0,16891.0,2767.0
+au,Australie,AUD,119.0,733750.0,97556.0,12542.0
+cl,Chili,CLP,37.0,248692.0,46386.0,4926.0
+lb,Liban,USD,2.0,23891.0,879.0,126.0
+de,Allemagne,EUR,210.0,1651582.0,173033.0,13006.0
+za,Afrique du Sud,ZAR,110.0,199618.0,33912.0,3792.0

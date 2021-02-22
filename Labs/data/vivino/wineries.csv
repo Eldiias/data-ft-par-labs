@@ -1,0 +1,525 @@
+id,name,review_status,average_rating,number_of_wines,region,business_name,phone,email,winemaker,website,latitude,longitude
+1837,Marqués de Riscal,Completed,3.9,33,492,Herederos del Marqués de Riscal,,marquesderiscal@marquesderiscal.com,Dorne Waters,http://www.marquesderiscal.com,42.511974,-2.618248
+243362,Catena,Completed,3.9,28,454,Catena,,,Catena Zapata,,-33.164455,-68.91893
+1368,Opus One,Completed,4.6,2,42,Opus One,(707) 963-1979,info@opusonewinery.com,Michael Silacci,http://www.opusonewinery.com,38.4369,-122.4012
+1314,E. Guigal,Completed,3.9,34,2399,E. Guigal (Guigal),+33(0)474561022,coordinator@guigal.com,Philippe GUIGAL,http://www.guigal.com,45.488113,4.806892
+139072,Mouton Cadet,Completed,3.5,29,383,Mouton Cadet,,,,http://www.moutoncadet.com/,45.21308,-0.769608
+1252,Antinori,Completed,4.1,78,394,Marchesi Antinori,055 23595,antinori@antinori.it,Renzo Cotarella,https://www.antinori.it/en/,43.612602,11.191609
+4137,Trivento,Completed,3.5,143,454,Bodega Trivento,54 261 4137100,info@trivento.com,Dorne Waters,http://www.trivento.com,-32.97741,-68.78565
+3310,Stag's Leap Wine Cellars,Completed,4.3,63,25,Stag's Leap Wine Cellars,707.944.2020,service@stagsleapwinecellars.com,Marcus Notaro,https://www.stagsleapwinecellars.com/,38.401318,-122.32578
+1757,Emilio Moro,Completed,4.0,11,405,Bodegas Emilio Moro,34 983 87 84 00,bodega@emiliomoro.com,Mike Drash,http://www.emiliomoro.com,,
+37575,Casa Ferreirinha,Completed,3.9,30,433,Casa Ferreirinha,351 227-838 104,info@sograpevinhos.com,,http://www.sograpevinhos.com/marcas/Casa%20Ferreirinha,,
+7941,Ornellaia,Completed,4.2,25,3345,Tenuta dell'Ornellaia,39 0565 718 11,info@ornellaia.it,Tenuta dell Ornellaia,http://www.ornellaia.com,,
+1675,Cloudy Bay,Completed,4.1,16,732,Cloudy Bay,(643) 520 9140,,Cloudy Bay,http://www.cloudybay.co.nz,-41.469376,173.9697
+60883,Masi,Completed,3.8,102,460,Masi Agricola,0456832511,angela.franceschini@masi.it,,http://www.masi.it,,
+1413,Tenuta San Guido,Completed,4.3,4,394,Tenuta San Guido,39-0565-762 003,info@sassicaia.com,Tenuta San Guido,http://www.tenutasanguido.com,43.23391,10.616
+11049,Alión,Completed,4.4,1,405,Bodegas y Viñedos Alión,34 0983 881 236 ,export@vega-sicilia.com,David Álvarez,http://www.bodegasalion.com,41.607647,-4.434865
+1305,Penfolds,Completed,4.0,156,7,Penfolds,(085) 62 0389,penfolds@penfolds.com,Peter Gago,https://www.penfolds.com,-34.920547,138.67702
+7930,Clos de los Siete,Completed,3.9,1,454,Clos de los Siete,54 261 4234230,info@closdelossiete.com,Michel Rolland,http://www.clos7.com.ar,-32.89757,-68.80275
+1653,Tommasi,Completed,4.0,94,483,Tommasi Viticoltori,+39 045 7701266,wine@tommasi.com,Giancarlo Tommasi,http://www.tommasi.com/,45.50491,10.916976
+6812,Torres,Completed,3.7,152,631,Bodegas Torres,,,Miguel Torres,http://www.torres.es/,41.35071,1.665846
+1864,Marqués de Murrieta,Completed,4.1,26,492,Bodegas Marqués de Murrieta,34 941 27 13 70,comunicacion@marquesdemurrieta.com,María Vargas,http://www.marquesdemurrieta.com,42.386967,-2.298246
+2268,La Rioja Alta,Completed,4.2,32,492,La Rioja Alta,34 902 123 904,riojalta@riojalta.com,Julio Sáenz Fernández,http://www.riojalta.com,42.584824,-2.847105
+1886,Fattoria dei Barbi,Completed,4.0,23,394,Fattoria dei Barbi,39 0577 84 1111,info@fattoriadeibarbi.it,,http://www.fattoriadeibarbi.it,,
+1467,Muga,Completed,4.0,21,492,Bodegas Muga,+941306060,marketing@bodegasmuga.com,Jorge Muga,http://www.bodegasmuga.com,42.580704,-2.847465
+3305,Cantina Zaccagnini,Completed,3.8,52,619,Cantina Ciccio Zaccagnini (Zaccagnini),39 085 888 0195,info@cantinazaccagnini.it,,http://www.cantinazaccagnini.it,42.193783,13.95296
+6483,Ogier,Completed,3.8,166,401,Ogier Caves des Papes,33 04 9039 3232,ogier@ogier.fr,,http://www.ogier.fr,47.978725,4.488206
+7967,Banfi,Completed,3.9,111,394,Castello Banfi,39 0577 840111,banfi@banfi.it,Castello Banfi,http://www.castellobanfi.com,,
+4848,Protos,Completed,3.9,20,404,Bodegas Protos,(+34) 983 878011 ,,Protos,http://www.bodegasprotos.com,41.60011,-4.114827
+215090,Cune (CVNE),Completed,3.6,60,492,Cune (CVNE - C.V.N.E.),34 945 600 201,,CVNE Cune,http://www.cvne.com/tp-bodega/cotino/,,
+1437,Catena Zapata,Completed,4.2,25,454,Bodega Catena Zapata,02614131124,turismo@catenazapata.com,Alejandro vigil,http://www.catenawines.com,-33.118164,-68.88548
+7999,Aalto,Completed,4.4,2,405,Aalto Bodegas y Viñedos,+34 983 036 949 / +34 620 351 182,aalto@aalto.es,Mariano Garcia,http://www.aalto.es,41.60341,-4.264798
+11050,Vega Sicilia,Completed,4.7,5,405,Bodegas Vega Sicilia,34 0983 680 147,vegasicilia@vega-sicilia.com,Enrique Macías Gómez,http://www.vega-sicilia.com,41.629032,-4.293897
+17605,Almaviva,Completed,4.6,2,3068,Viña Almaviva,(56-2) 270 4200,info@almavivawinery.com,Michel Friou,http://www.almavivawinery.com,,
+212219,Casillero del Diablo,Completed,3.6,54,3071,Casillero del Diablo,562 2 24765000,,Dorne Waters,http://www.casillerodeldiablo.com/,-33.634434,-70.5754
+1499,Allegrini,Completed,4.0,37,460,Allegrini,39 0456 832 011,info@allegrini.it,Allegrini,http://website.allegrini.it/,45.540226,10.884376
+528,Silver Oak,Completed,4.5,9,42,Silver Oak Cellars,(800) 273-8809,trade@silveroak.com,Daniel Baron,http://www.silveroak.com,38.444576,-122.38667
+33399,Altos Ibéricos,Completed,3.7,3,492,Altos Ibéricos (Ibéricos),+34 938 17 74 00,webmaster@torres.es,Miguel Torres,http://www.torres.es/,41.34483,1.704715
+11187,Château Lynch-Bages,Completed,4.3,4,393,Château Lynch-Bages,33 05 56 73 24 00,,Daniel Llose,http://www.lynchbages.com,45.19903,-0.74882
+7618,Lapostolle,Completed,3.9,78,593,Casa Lapostolle,(+56 72) 2953338,,Jacques Begarie,,-34.608524,-71.29847
+12036,Mauro,Completed,4.3,5,404,Bodegas Mauro,34 983 521 972 ,info@bodegasmauro.com,Mauro,http://www.bodegasmauro.com,,
+24988,Jeff Carrel,Completed,3.7,72,833,Jeff Carrel Wines,,,,http://www.jeffcarrel.com/,,
+7759,Produttori del Barbaresco,Completed,4.0,16,722,Produttori del Barbaresco,39 0173 635 139  ,produttori@produttoridelbarbaresco.com,Produttori del Barbaresco,http://www.produttoridelbarbaresco.com,,
+2415,Cesari,Completed,3.9,87,3072,Gerardo Cesari (G. Cesari),+39 030 99 25 811,info@cesariverona.it,Franco Cesari,http://www.cesari-spa.it,45.310413,9.996291
+220297,Luce della Vite,Completed,4.1,6,394,Tenuta Luce della Vite,,,Marchesi dè Frescobaldi,http://www.lucedellavite.com/,,
+19494,Famille Perrin,Completed,3.7,82,840,Famille Perrin (Perrin et Fils),33 04 9011 1200 ,contact@familleperrin.com,Dorne Waters,http://www.familleperrin.com,,
+1346,Château Talbot,Completed,4.1,5,399,Château Talbot,33  05 5673 2150,chateau-talbot@chateau-talbot.com,,http://www.chateau-talbot.com,45.16407,-0.738219
+1661,Ricasoli,Completed,3.8,64,1798,Barone Ricasoli,003905777301,barone@ricasoli.it,"Francesco Ricasoli, owner",http://www.ricasoli.it,43.415768,11.458574
+197705,R. López de Heredia Viña Tondonia,Completed,4.1,10,492,Bodegas R. López de Heredia Viña Tondonia,,bodega@lopezdeheredia.com,López de Heredia - Viña Tondonia,http://www.lopezdeheredia.com,,
+1704,Brancaia,Completed,3.9,15,394,Casa Brancaia Societa' Agricola,+39 0577 742 007,brancaia@brancaia.it,Brancaia,http://www.brancaia.com,43.45276,11.33356
+7829,M. Chapoutier,Completed,3.8,187,400,M. Chapoutier (Chapoutier),+33 475 089 264,dkapikian@chapoutier.com,,http://www.chapoutier.com,45.071068,4.839134
+1296,Joseph Phelps,Completed,4.4,51,25,Joseph Phelps Vineyards,707 963 2745,info@josephphelps.com,Ashley Hepworth & Justin Ennis,http://www.josephphelps.com,,
+43084,La Braccesca,Completed,3.9,8,394,Tenuta La Braccesca,+39 05 78 72 42 52,antinori@antinori.it,Antinori,http://www.labraccesca.it/,,
+4293,Château Giscours,Completed,4.1,5,384,Château Giscours,0557970909,giscours@chateau-giscours.fr,Eric Albada Jelgersma, www.chateau-giscours.fr,45.015125,-0.639509
+1309,Château Pontet-Canet,Completed,4.3,3,393,Château Pontet-Canet,33 05 5659 0404,info@pontet-canet.com,Gérard Tesseron,http://www.pontet-canet.com,45.199203,-0.748886
+1183,Trimbach,Completed,3.9,32,387,Maison Trimbach (F. E. Trimbach),+ 33 03 89 73 60 30,,,http://www.trimbach.fr,48.195705,7.331575
+1511,Château Gloria,Completed,4.0,2,399,Château Gloria,33 05 5659 0818,domainemartin@wanadoo.fr,Henri Martin,http://www.chateau-gloria.com,45.16407,-0.738219
+3143,Álvaro Palacios,Completed,4.1,12,463,Bodegas Álvaro Palacios,34 977 839 195,alvaropalacios@ctv.es,Alvaro Palacios,,,
+85839,Château d'Armailhac,Completed,4.1,1,393,Château d'Armailhac,+33 (0)5 56 73 34 00,,Château d'Armailhac,http://www.chateau-darmailhac.com/,,
+10814,Col d'Orcia,Completed,4.0,24,394,Col d'Orcia,0577 80891,info@coldorcia.it,Antonino Tranchida,http://www.coldorcia.com,42.96716,11.437819
+11108,Izadi,Completed,3.8,18,899,Bodegas Izadi,34 945 609 086,izadi@izadi.com,Artevino - Izadi,http://www.izadi.com,40.62132,-4.847135
+10524,Clarendelle,Completed,3.6,11,383,Clarendelle - Inspired by Haut Brion (Clarence Dillon Wines),33 05 5695 5350,cdw@clarencedillonwines.com,Gibert Dillon,http://www.clarendelle.com,44.907597,-0.612695
+1402,Feudi di San Gregorio,Completed,3.7,37,443,Feudi di San Gregorio,39-0825-986611,,Feudi di San Gregorio,http://www.feudi.it,40.91706,14.8868
+10474,Gaja,Completed,4.3,51,389,Angelo Gaja,39 0173 635 158,info@gaja.com,Gaja,http://www.gaja.com,44.557007,7.711347
+280323,Escudo Rojo,Completed,3.6,10,721,Escudo Rojo,,,,https://www.escudo-rojo.com/,-33.738876,-70.78176
+1917,Au Bon Climat,Completed,4.0,93,857,Au Bon Climat Winery,707 363 6463,info@aubonclimat.com,Jim Clendenen,http://www.aubonclimat.com,34.595837,-120.13906
+10204,Prunotto,Completed,3.8,39,389,Prunotto,39 0173 280 017 ,prunotto@prunotto.it,Albiera Antinori,http://www.prunotto.it,44.68551,8.009502
+1452,Château Cantemerle,Completed,3.9,9,427,Château Cantemerle,+33557970282,cantemerle@cantemerle.com,SC Chateau Cantemerle,http://www.cantemerle.com,44.9958,-0.62816
+7654,Le Macchiole,Completed,4.2,7,394,Le Macchiole,39 0565 766092,info@lemacchiole.it,Le Macchiole,http://www.lemacchiole.it,43.25903,10.594953
+105199,Château Pichon Longueville Comtesse de Lalande,Completed,4.3,6,393,Château Pichon Longueville Comtesse de Lalande (Château Pichon Comtesse de Lalande),+33 (0) 5 56 59 19 40,pichon@pichon-lalande.com,Château Pichon Comtesse,http://www.pichon-lalande.com/,,
+1334,Beaulieu Vineyard (BV),Completed,3.9,118,105,Beaulieu Vineyard (BV),707-967-5233,bvinfo@bvwines.com,Jeffrey Stambor,http://www.bvwines.com,38.460594,-122.42201
+10864,Cos d'Estournel,Completed,4.3,8,456,Cos d'Estournel,33 05 5673 1550,,Château Cos d'Estournel,http://www.estournel.com,45.23114,-0.77575
+1390,Château Lagrange,Completed,4.0,10,399,Château Lagrange,+ 33 05 5673 3838,chateau-lagrange@chateau-lagrange.com,Château Lagrange,http://www.chateau-lagrange.com,47.4017,5.1442
+8914,Domaine du Tariquet,Completed,3.8,34,3199,Domaine du Tariquet,33 05 62 09 87 82,contact@tariquet.com,,http://www.tariquet.com,43.861122,0.103187
+3105,Gérard Bertrand,Completed,3.7,335,536,Gérard Bertrand,+33 (0)4 68 45 28 50,winesgerardbertrand@gmail.com,Gérard Bertrand,http://www.gerard-bertrand.com,,
+1484,Domaine Drouhin,Completed,4.1,10,45,Domaine Drouhin (Domaine Drouhin Oregon),(503) 864-2700,info@domainedrouhin.com,Véronique Boss-Drouhin,http://www.domainedrouhin.com,45.26518,-123.063324
+6776,Château Calon-Ségur,Completed,4.1,9,456,Château Calon-Ségur,33 05 56 59 30 27,calon-segur@calon-segur.fr,Dominique  Génot,http://www.calon-segur.fr,45.26475,-0.771776
+11315,Château Pichon Baron,Completed,4.3,7,393,Château Pichon-Longueville Baron (Château Pichon-Longueville),+33 05 56 73 17 17,contact@pichonbaron.com,Christian Seely,http://www.pichonbaron.com,45.176167,-0.75236
+2066,San Felice,Completed,3.9,39,394,Agricola San Felice,34 0577 3991,info@agricolasanfelice.it,,http://www.agricolasanfelice.it,,
+202572,Domaine du Vieux Télégraphe,Completed,4.2,6,401,Domaine du Vieux Télégraphe,33 04 9033 0031,daniel@brunier.fr,Daniel et Fredrick Brunier,http://www.vignoblesbrunier.fr,44.024483,4.883015
+2641,Bolla,Completed,3.6,97,460,Bolla,+39 045 683 65 55,bolla@bolla.it,Bolla,http://www.bolla.it/,45.221004,10.024785
+12160,Château de Saint Cosme,Completed,3.8,25,400,Château de Saint Cosme (Saint Cosme),33 04 9065 8080,barruol@chateau-st-cosme.com,Louis Barroul,http://www.saintcosme.com,46.642,2.338
+7064,Leyda,Completed,3.6,29,1659,Viña Leyda,24775300,lulloacu@vsptwinegroup.com,Viviana Navarrete,http://www.leyda.cl,-33.654217,-71.556854
+1340,Château Smith Haut-Lafitte,Completed,4.1,8,471,Château Smith Haut-Lafitte,33 05 57 83 11 22,,Daniel Cathiard,http://www.smith-haut-lafitte.com,46.642,2.338
+1208,Château Chasse-Spleen,Completed,3.9,5,3244,Château Chasse-Spleen,+33 05 56 58 02 37,info@chasse-spleen.com,Château Chasse Spleen,http://www.chasse-spleen.com,45.0594,-0.770533
+20866,Numanthia,Completed,4.2,4,430,Bodega Numanthia,34 980 69 91 47,contact@numanthia.com,Bodegas Numanthia,http://www.numanthia.com/,,
+2660,Barton & Guestier,Completed,3.6,143,383,Barton & Guestier (B&G),556954812,petra.frebault@barton-guestier.com,Laurent Prada,http://www.barton-guestier.com,44.90643,-0.616578
+1799,Marchesi di Barolo,Completed,3.9,96,504,Cantine dei Marchesi di Barolo,39 0173 56.44.00,info@marchesibarolo.com,,http://www.marchesibarolo.com,,
+2333,Bodegas San Román,Completed,4.0,4,430,Bodegas San Román - Bodegas Maurodos,34(0)983784118,,Mauro,http://www.bodegasanroman.com,41.55571,-5.20156
+11630,Château La Nerthe,Completed,4.1,10,401,Château La Nerthe,33 04 9083 7011,contact@chateaulanerthe.fr,,http://www.chateaulanerthe.fr/,43.950977,4.938034
+3926,Château Kefraya,Completed,3.8,33,769,Château Kefraya,+961.1.485207/8/9,contact@chateaukefraya.com,Fabrice Guiberteau,http://www.chateaukefraya.com,33.65578,35.74436
+215762,Ponte Lungo,Completed,3.9,12,394,Ponte Lungo (PonteLungo),,,,,,
+276070,Pago del Cielo,Completed,3.8,5,405,Pago del Cielo,,,,https://www.torres.es/en/blog/wine-planet/pago-del-cielo,,
+1470,Ravenswood,Completed,3.6,79,26,Ravenswood Winery (Ravens Wood),(888) 669-4679,peter.griffith@ravenswood-wine.com,Joel Peterson,http://www.ravenswoodwinery.com,38.30306,-122.442696
+1353,Château Sociando-Mallet,Completed,4.0,6,427,Château Sociando-Mallet,33 05 5673 3880,scea-jean-gautreau@wanadoo.fr,Château Sociando Mallet,http://www.sociandomallet.com,45.28527,-0.787731
+11672,Château Poujeaux,Completed,3.9,4,3244,Château Poujeaux,33 05 56 58 02 96,contact@chateau-poujeaux.com,Francois Theil,http://www.chateaupoujeaux.com,45.0594,-0.770533
+1298,Château de Beaucastel,Completed,4.3,10,401,Château de Beaucastel,33 04 90 70 41 00,contact@beaucastel.com,Famille Perrin,http://www.beaucastel.com,44.10506,4.851629
+2357,Pago de Los Capellanes,Completed,4.1,8,405,Bodegas Pago de Los Capellanes,34 947 530 068,bodega@pagodeloscapellanes.com,Pago de Los Capellanes,http://www.pagodeloscapellanes.com,,
+2413,Château Lilian Ladouys,Completed,3.8,4,456,Château Lilian Ladouys,+33 05 5659 7196,lilian-ladouys@chateau-lilian-ladouys.com,Vincent Bache-Gabrielsen,http://www.chateau-lilian-ladouys.com,45.26475,-0.771776
+2020,Château Belgrave,Completed,3.9,3,427,Château Belgrave,33 05 5659 4020,,Vignoble Dourthe,http://www.dourthe.com,45.154682,-0.782839
+4121,Odfjell,Completed,3.7,57,593,Odfjell Vineyards,56-2-28762800,,Arnaud Hereu,http://www.odfjellvineyards.cl,-33.54525,-70.868225
+11461,Château Larrivet Haut-Brion,Completed,4.0,11,471,Château Larrivet Haut-Brion,33 05 56 64 75 51,,Château Larrivet Haut Brion,http://larrivethautbrion.fr,44.73355,-0.580477
+3845,Château Rauzan-Ségla,Completed,4.2,7,384,Château Rauzan-Ségla (Château Rausan-Segla),33 05 5788 8210,contact@rauzan-segla.com,Henry de Ruffray,http://www.chateaurauzansegla.com,45.035885,-0.674681
+1332,Dominus,Completed,4.3,3,90,Dominus Estate (Dominus by Christian Moueix),707 944-8954,info@dominusestate.com,Dominus,http://www.dominusestate.com,38.40345,-122.36184
+7637,Château Léoville Poyferré,Completed,4.2,5,399,Château Léoville Poyferré,33 05 56 59 08 30,lp@leoville-poyferre.fr,Château Léoville Poyferré,http://www.leoville-poyferre.fr,44.92855,-0.3011
+6875,Altesino,Completed,4.1,15,683,Altesino,39 0577 806 208 ,info@altesino.it,Pietro Rivella,http://www.altesino.it,43.102215,11.489819
+193856,Château La Tour Carnet,Completed,3.9,28,427,Château La Tour Carnet,,,,,,
+12167,Cheval des Andes,Completed,4.4,1,454,Cheval des Andes (Cheval Blanc & Terrazas de Los Andes),54 261 488 7007,chevaldesandes@chevaldesandes.com,Pierre Lurton,http://www.chevaldesandes.com,,
+115806,Château Montrose,Completed,4.2,6,456,Château Montrose,+33 0556593012,chateau@chateau-montrose.com,Château Montrose,http://www.chateau-montrose.com,,
+11272,Château Lascombes,Completed,4.1,7,384,Château Lascombes,33 05 5788 9743,contact@chateau-lascombes.fr,Nathalle Siraud,http://www.chateau-lascombes.com,45.0413,-0.682334
+143478,Château Clerc Milon,Completed,4.1,2,393,Château Clerc Milon,+33 (0)5 56 41 43 43,,Château Clerc Milon,http://www.chateau-clerc-milon.com/,45.222046,-0.767699
+1609,Château Phélan Ségur,Completed,4.0,5,456,Château Phélan Ségur,33 05 5659 7400,phelan@phelansegur.com,Château Phélan-Ségur,http://www.phelansegur.com,45.26475,-0.771776
+4047,Biserno,Completed,4.1,6,394,Tenuta di Biserno,39 0586 671099,customersservice@biserno.it,Tenuta di Biserno,http://www.biserno.it,43.269787,10.597826
+221170,Château Mont-Pérat,Completed,3.5,20,383,Château Mont-Pérat,,,Château Mont-Pérat,,,
+1369,Two Hands,Completed,4.1,78,397,Two Hands Wines,08 8568 7900,mail@twohandswines.com,Ben Perkins,http://www.twohandswines.com,-34.48481,138.93704
+1710,Château Carbonnieux,Completed,4.0,9,471,Château Carbonnieux,+33(0)5 57 96 56 20,info@chateau-carbonnieux.fr,Perrin Family,http://www.carbonnieux.com/,,
+4773,Punica,Completed,4.0,3,530,Agricola Punica (AgriPunica),39 0781 950 127 ,info@agripunica.it,Agripunica,http://agripunica.it,39.093407,8.716156
+1808,Château Haut-Marbuzet,Completed,4.1,2,456,Château Haut-Marbuzet,33 05 56 59 30 54,infos@haut-marbuzet.net,Bruno Duboscq,,45.26475,-0.771776
+1446,Casanova di Neri,Completed,4.3,14,394,Azienda Agricola Casanova di Neri, +39 0577 834455,info@casanovadineri.it,Giovanni Neri,http://www.casanovadineri.it,43.057343,11.519795
+1275,Château Batailley,Completed,4.1,2,393,Château Batailley,33-05-56590113,,,http://www.batailley.com,45.199203,-0.748886
+38000,Domaine Mathieu & Camille Lapierre,Completed,3.9,29,650,Domaine Mathieu & Camille Lapierre (Marcel Lapierre),33 03 74 04 23 89,informations@marcel-lapierre.com,,http://www.marcel-lapierre.com,,
+1586,Dominio de Pingus,Completed,4.3,4,405,Dominio de Pingus,34 983 68 01 89,info@pingus.es,Peter Sisseck,http://www.pingus.es/,,
+10244,Château Branaire-Ducru,Completed,4.0,6,399,Château Branaire-Ducru (Chateau Branaire),33 05 56 59 25 86,branaire@branaire.com,Château Branaire Ducru,http://www.branaire.com,45.1641,-0.73846
+177327,Château Léoville Barton,Completed,4.3,3,399,Château Léoville Barton,,,Château Léoville Barton,http://www.leoville-barton.com,,
+1382,Domaine Jean-Louis Chave,Completed,4.1,15,2399,Domaine Jean-Louis Chave (J. L. Chave),+33 04 7508 2463,,,,,
+3442,Château d'Arsac,Completed,3.8,18,384,Château d'Arsac,33 05 56 58 83 90,,Emmanuel Calvez,http://www.chateau-arsac.com,43.463444,-0.60453
+2170,Castello di Ama,Completed,4.0,17,394,Castello di Ama,39 0577 746 031,info@castellodiama.com,Castello Di Ama,http://www.castellodiama.com,43.441765,11.389819
+11188,Château Gruaud Larose,Completed,4.1,5,399,Château Gruaud Larose,+ 33 05 56 73 15 20,,Jacques Merlaut,http://www.gruaud-larose.com,45.16407,-0.738219
+1491,Fèlsina,Completed,3.9,27,394,Fattoria di Fèlsina (Berardenga),39 0577 355117,info@felsina.it,Fèlsina,http://www.felsina.it,43.347614,11.50356
+1367,Château Grand-Puy-Lacoste,Completed,4.1,4,393,Château Grand-Puy-Lacoste,33 05 5659 0520,dfxb@domainesfxborie.com,Château Grand Puy Lacoste,http://www.grand-puy-lacoste.fr/,45.199203,-0.748886
+176719,Château Duhart-Milon,Completed,4.2,3,393,Château Duhart-Milon,33 (0) 1 53 89 78 00,dbr@lafite.com,Château Duhart Milon,http://www.lafite.com/,,
+2426,Château Pedesclaux,Completed,4.0,6,393,Château Pedesclaux,33 05 57 73 64 64,Contact@chateau-pedesclaux.com,Vincent Bache-Gabrielsen,http://www.chateau-pedesclaux.com,45.213856,-0.760426
+1476,Pio Cesare,Completed,4.0,28,389,Pio Cesare,39 01 7344 0386,piocesare@piocesare.it,Pio Cesare,http://www.piocesare.it,44.701885,8.038346
+573,Pine Ridge,Completed,4.2,46,25,Pine Ridge Vineyards,707 252 9777,info@pineridgewine.com,Michael Beaulac,http://www.pineridgewinery.com,38.40474,-122.33277
+193633,Château Fombrauge,Completed,4.0,23,827,Château Fombrauge,,,,,,
+244651,Grattamacco,Completed,4.1,5,673,Podere Grattamacco,,info@collemassari.it,Grattamacco,https://www.collemassariwines.it/estates/grattamacco/the-estate/,,
+59549,Domaine de Chevalier,Completed,4.1,9,471,Domaine de Chevalier,33 05 56 64 16 16 ,olivierbernard@domainedechevalier.com,Domaine de Chevalier,http://www.domainedechevalier.com,,
+193777,Château Pape Clément,Completed,4.3,16,471,Château Pape Clément,,,Château Pape Clement,,,
+1695,Château de Fieuzal,Completed,4.0,5,471,Château de Fieuzal,33 5 56 64 77 86,info@fieuzal.com,,http://www.fieuzal.com,44.70808,-0.60695
+5918,Castello Monaci,Completed,3.8,22,640,Castello Monaci,+39 0831 66 57 00,castello.monaci@giv.it,Franceso Bardi,http://www.castellomonaci-winetour.it,45.14572,7.710914
+1882,Château de Camensac,Completed,3.8,6,427,Château de Camensac,33 05 56 59 41 69,info@ChateauCamensac.com,Château Camensac,http://www.chateaucamensac.com,45.140144,-0.855691
+1447,La Spinetta,Completed,4.0,39,389,La Spinetta,,info@la-spinetta.com,La Spinetta,http://www.la-spinetta.com,,
+1460,Château Lafon-Rochet,Completed,4.0,7,456,Château Lafon-Rochet,33 05 5659 3206 ,lafon@lafon-rochet.com,Michel Tesseron,http://www.lafon-rochet.com,45.233936,-0.787539
+1414,Château Beychevelle,Completed,4.2,8,399,Château Beychevelle,+ 33 05 56 73 20 70,beychevelle@beychevelle.com,,http://www.beychevelle.com,45.16407,-0.738219
+241766,Domaine Laroche,Completed,4.0,20,428,Domaine Laroche,0386428900,,,https://www.larochewines.com,,
+11662,Château Ormes de Pez,Completed,3.9,1,456,Château Les Ormes de Pez,33 (0)6 79 48 32 47,accueil@ormesdepez.com,Jean-Charles Cazes,http://www.ormesdepez.com,45.26475,-0.771776
+1376,Château Palmer,Completed,4.4,6,384,Château Palmer,00 33 557 88 72 72,margauxberanger@chateau-palmer.com,Thomas Duroux,http://www.chateau-palmer.com,45.03667,-0.669527
+5991,Château Ksara,Completed,3.7,27,769,Château Ksara,(961) 1-200715,info@ksara.com.lb,,http://www.ksara.com.lb,33.85472,35.862286
+104127,Sena,Completed,4.5,1,575,Viña Sena (Sena - Eduardo Chadwick & Robert Mondavi),,,Sena,http://www.sena.cl/,,
+1506,Château La Lagune,Completed,4.1,4,427,Château La Lagune,+ 33 05 57 88 82 77,contact@chateau-lalagune.com,Caroline Frey,http://www.chateau-lalagune.com,44.977192,-0.616941
+11277,Séptima,Completed,3.8,61,454,Bodegas Septima,(54 261) 498 9550,,,http://www.bodegaseptima.com,-33.086647,-68.94054
+2685,Dog Point,Completed,3.9,4,732,Dog Point Vineyards,64 03 572 8294,info@dogpoint.co.nz,,http://www.dogpoint.co.nz,-41.52703,173.82744
+1567,Olivier Leflaive,Completed,4.0,125,385,Olivier Leflaive Frères,00 33 380 213 765,contact@olivier-leflaive.com,Franck Grux,http://www.olivier-leflaive.com,46.946518,4.75483
+5461,Rocca di Frassinello,Completed,3.9,16,2916,Rocca di Frassinello,39 0577 742 903 ,info@castellare.it,Andrea Cabib,http://www.castellare.it,42.907288,10.99165
+1228,Tenuta Sette Ponti,Completed,4.0,14,394,Tenuta Sette Ponti,0575 477857,tenutasetteponti@tenutasetteponti.it,Sette Ponti,http://www.tenutasetteponti.it,43.542458,11.74669
+1260,Vietti,Completed,4.0,30,504,Vietti,+39.0173 62825,info@vietti.com,Alfredo Currado,http://www.vietti.com,44.623917,7.979
+5614,Château Lamothe-Bergeron,Completed,3.7,7,427,Château Lamothe-Bergeron,33 05 5658 9477,contact@cagrandscrus.com,Hubert  de Boüard de Laforest,http://www.lamothebergeron.fr,45.11694,-0.726483
+2818,Château La Cardonne,Completed,3.7,2,417,Château La Cardonne,+33 5 56 73 31 51,cgr@domaines-cgr.com,,http://www.chateaulacardonne.com/,48.868855,2.342024
+2258,Château Durfort-Vivens,Completed,4.0,9,384,Château Durfort-Vivens,33 (0) 5 57 88 31 02,infos@durfort-vivens.com,,http://www.durfort-vivens.com,45.041115,-0.676115
+2752,Henri Bourgeois,Completed,3.9,65,635,Domaine Henri Bourgeois (Famille Bourgeois),33 02 4878 5320,domaine@henribourgeois.com,Henri Bourgeois,http://www.henribourgeois.com,47.337456,2.79581
+2411,Château La Tour de By,Completed,3.7,7,417,Château La Tour de By,33 05 5641 5003,info@la-tour-de-by.com,Marc Pages,http://www.la-tour-de-by.com,45.356377,-0.893274
+1933,Bertani,Completed,3.9,59,1804,Cantine Bertani,39 04 5751 3999,,Bertani,http://www.bertani.net,45.518093,11.022496
+8023,Château Brane-Cantenac,Completed,4.1,3,384,Château Brane-Cantenac,33 05 5788 8333,contact@brane-cantenac.com,Henri Lurton,http://www.brane-cantenac.com,45.041115,-0.676115
+1257,Château Potensac,Completed,3.8,5,417,Château Potensac,33 55 67 32 526,,Château Fotensac,,45.30742,-0.836464
+11455,Château Léoville Las Cases,Completed,4.3,6,399,Château Léoville Las Cases (Château Léoville Marquis de Las Cases),33 05 56 73 25 26,,Clos du Marquis,,45.06752,-0.721651
+17370,Xavier Vignon,Completed,3.8,58,401,Xavier Vignon (Xavier),33 9 54 02 05 67,contact@xaviervignon.com,,http://www.xaviervignon.com,44.067104,4.879407
+1463,Château du Tertre,Completed,4.1,6,384,Château du Tertre,33 5 57 88 52 52,tertre@chateaudutertre.fr,Louise Albada Jelgersma,http://www.chateaudutertre.fr,44.911358,-0.247491
+1387,Paul Jaboulet Aîné,Completed,3.8,81,400,Domaines Paul Jaboulet Aîné (Jaboulet),33 04 75 84 68 93,info@jaboulet.com,,http://www.jaboulet.com,46.642,2.338
+2225,La Massa,Completed,4.0,4,394,Fattoria La Massa,39 055 852 722,info@fattorialamassa.com,Fattoria La Massa,http://www.lamassa.com/#,45.49168,10.197165
+5074,Arboleda,Completed,3.9,9,736,Arboleda,56-2 339-9100,info@arboledawines.cl,Andres Barros,http://www.arboledawines.com,-33.416676,-70.60543
+1716,Louis M. Martini,Completed,3.9,58,97,Louis M. Martini Winery (Louis Martini),707 963 2736,info@louismartini.com,Michael Martini,http://www.louismartini.com,38.491734,-122.45334
+212214,Castello Nipozzano,Completed,3.8,9,394,Castello Nipozzano, +39 05 58 31 10 50,info@frescobaldi.it,Marchesi dè Frescobaldi,http://www.frescobaldi.it,43.785557,11.469625
+16228,Château Latour-Martillac,Completed,4.0,8,471,Château Latour-Martillac,33 05 57 97 71 11,latourmartillac@latourmartillac.com,Jean Kressmann,http://www.latour-martillac.com,44.713448,-0.542796
+4021,Château Peyrabon,Completed,3.8,4,427,Château Peyrabon,33 05 56 59 57 10 ,xmichelet@chateau-peyrabon.com,Xavier Michelet,http://www.chateaupeyrabon.com,46.642,2.338
+7601,Bouchard Père & Fils,Completed,3.9,209,385,Bouchard Père & Fils,+33 (0)3 80 24 80 24,contact@bouchard-pereetfils.com,,http://www.bouchard-pereetfils.com,47.01574,4.878329
+1237,Château Prieuré-Lichine,Completed,4.1,7,384,Château Prieuré-Lichine,33(0)5 57 88 3628,,Château Prieure Lichine,http://www.prieure-lichine.fr/,,
+72866,Château Lanessan,Completed,3.7,10,427,Château Lanessan,33 05 56 58 94 80,infos@lanessan.com,,http://www.lanessan.com/,,
+10254,Château Ducru-Beaucaillou,Completed,4.3,5,399,Château Ducru-Beaucaillou,,je-borie@je-borie-sa.com,René Lusseau,http://www.chateau-ducru-beaucaillou.com,45.14777,-0.742991
+1597,La Chablisienne,Completed,3.8,57,428,La Chablisienne,33 03 8642 8989,chab@chablisienne.fr,,http://www.chablisienne.com,47.812084,3.796596
+213625,Villa Borghetti,Completed,3.7,21,460,Villa Borghetti,39 0458 432 111,info@pasqua.it,,http://www.pasqua.it,45.458282,11.028335
+25698,Château Pavie,Completed,4.3,5,827,Château Pavie,,,Château Pavie,http://www.vignoblesperse.com/en/chateau-pavie/home,,
+1508,Château Fleur Cardinale,Completed,4.1,5,827,Château Fleur Cardinale,+33557401405,c.decoster@fleurcardinale.com,Florence & Dominique Decoster,http://www.fleurcardinale.com/en/,44.88979,-0.082465
+1679,Château Beaumont,Completed,3.7,7,427,Château Beaumont,05 56 58 92 29,,,http://www.chateau-beaumont.com,48.233295,-0.90668
+1230,Château Kirwan,Completed,4.1,7,384,Château Kirwan,33 05 5788 7100,nathalie.schyler@chateau-kirwan.com,Steve Noble Ledson,http://www.chateau-kirwan.com,45.041115,-0.676115
+2001,Querciabella,Completed,4.0,8,1798,Agricola Querciabella,39 055 8592 7777 ,des@querciabella.com,Guido De Santi,http://www.querciabella.com,43.570656,11.335417
+3596,Château Patache d'Aux,Completed,3.7,6,417,Château Patache d'Aux,33 556 415 018,,,,45.340412,-0.897419
+1838,Château Malartic-Lagravière,Completed,4.0,7,471,Château Malartic-Lagravière,33 05 56 64 75 08,malartic-lagraviere@malartic-lagraviere.com,Château Malartic Lagravière,http://www.malartic-lagraviere.com/,44.72489,-0.599575
+2995,Nino Negri,Completed,3.9,37,745,Nino Negri,39 0342 485 211,n.negri@giv.it,Nino Negri,http://www.ninonegri.it,46.17107,9.990381
+6234,Château Figeac,Completed,4.4,2,827,Château Figeac,33 05 57 24 72 26,chateau-figeac@chateau-figeac.com,Eric d\'Aramon,http://www.chateau-figeac.com,44.89601,-0.155475
+26172,Santi,Completed,3.8,30,3072,Santi,39 045 65 200 77,,,http://www.gruppoitalianovini.com/?tipo=cantine&cantina=3&,,
+1320,Shafer,Completed,4.4,18,25,Shafer Vineyards,707 944 2877,info@shafervineyards.com,Doug Shafer,http://www.shafervineyards.com,38.415417,-122.33647
+2889,Château Labégorce,Completed,4.0,12,384,Château Labégorce,33 05 5788 7132,,Château Labégorce,http://www.chateau-labegorce.fr,45.041115,-0.676115
+6559,Château Bois Pertuis,Completed,3.6,4,383,Château Bois Pertuis,,,,,44.863106,-0.535202
+246878,Château de Pierreux,Completed,3.6,3,2276,Château de Pierreux,,,,,,
+2820,Château Maucaillou,Completed,3.7,14,3244,Château Maucaillou - Les Notables de Maucaillou,33 05 56 58 01 23,chateau@maucaillou.com,,http://www.chateau-maucaillou.eu,45.0594,-0.770533
+1308,Louis Jadot,Completed,3.8,382,385,Maison Louis Jadot (Jadot),33 3 80 22 10 57,maisonlouisjadot@louisjadot.com,Frédéric Barnier,http://www.louisjadot.com,47.02398,4.83827
+2382,Domaine des Sénéchaux,Completed,4.1,2,401,Domaine des Sénéchaux,33 04 9083 7352,,Bernard Tranchecostes,,44.057873,4.832789
+22877,Losada,Completed,3.9,14,628,Losada Vinos de Finca,34987548053,bodega@losadavinosdefinca.com,Finca Losada,http://www.losadavinosdefinca.com/,,
+2264,Château Citran,Completed,3.7,9,427,Château Citran,33 05 56 58 21 01,info@citran.com,,http://www.citran.com,45.03494,-0.75719
+17688,Occhipinti,Completed,3.9,19,579,Azienda Agricola Arianna Occhipinti,000 000 000,,Arianna Occhipinti,http://www.agricolaocchipinti.it,,
+1195,Château Haut-Bages Libéral,Completed,4.0,5,393,Château Haut-Bages Libéral,33 05 5658 0237,info@hautbagesliberal.com,,http://www.hautbagesliberal.com,45.199585,-0.746212
+53524,Château Lalande-Borie,Completed,3.9,1,399,Château Lalande-Borie,,,Château Lalande Borie,,,
+4425,J. Moreau & Fils,Completed,3.7,89,428,J. Moreau & Fils,03 80 62 61 46,moreau@jmoreau-fils.com,,http://www.jmoreau-fils.com,47.820362,3.777415
+5229,Château Fuissé,Completed,4.1,15,2264,Château de Fuissé (Famille Vincent),33 03 85 35 61 44,benedicte@chateau-fuisse.fr,,http://chateau-fuisse.fr,46.2801,4.74326
+1876,Château Bouscassé,Completed,3.8,14,519,Château Bouscassé,,,,http://www.brumont.fr/,43.609352,-0.101518
+5871,Château de Ferrand,Completed,4.0,3,827,Château de Ferrand,33 05 5774 4711,,,http://www.chateaudeferrand.com,44.88423,-0.11807
+1798,Château La Dominique,Completed,4.0,3,827,Château La Dominique,+33 05 57 51 31 36,contact@vignobles.fayat.com,,http://www.chateau-ladominique.com,44.935345,-0.202473
+266021,William Fèvre,Completed,3.8,19,428,William Fèvre (Négociant),33 03 8698 9898,contact@williamfevre.com,William Fevre,https://www.williamfevre.fr/en,47.816525,3.8056
+2106,Château de Sales,Completed,3.9,2,555,Château de Sales,33 05 5751 0492,contact@chateau-de-sales.com,,http://www.chateau-de-sales.com,44.918026,-0.23169
+2098,Mastroberardino,Completed,3.8,50,443,Mastroberardino,0825614175,pr@mastroberardino.com,,http://www.mastroberardino.com,40.92387,14.831116
+2419,Remelluri,Completed,4.0,9,492,Bodegas Remelluri,34 94533 1801,info@remelluri.com,Jaime Rodríguez Salis,http://www.remelluri.com,42.60399,-2.75192
+2743,Pelissero,Completed,3.9,18,389,Azienda Agricola Vivinicicola Pelissero Giorgio,39 173638430,pelissero@pelissero.com,,http://www.pelissero.com,45.725925,11.678912
+5185,Terras Gauda,Completed,4.0,7,766,Bodegas Terras Gauda,34 986 621 001,terrasgauda@terrasgauda.com,Jose Maria Fonseca,http://www.terrasgauda.com,42.051983,-8.645784
+3771,Jean Foillard,Completed,4.0,13,650,Domaine Jean Foillard,04 7404 2497,jean.foillard@wanadoo.fr,Jean Foillard,,46.164978,4.689841
+1701,Château Charmail,Completed,3.8,4,427,Château Charmail,33 55 65 97 0 63,,Cathy Corison,http://www.chateau-charmail.fr,45.433723,-0.981385
+1728,Château Lynch-Moussas,Completed,4.0,2,393,Château Lynch-Moussas,33 05 56 00 00 70,,Château Lynch Moussas,http://www.lynch-moussas.com/,44.857704,-0.567761
+6620,Château le Puy,Completed,3.9,13,572,Château le Puy,33 557 406182,contact@chateau-le-puy.com,Château Le Puy,http://www.chateau-le-puy.com,44.93622,-0.02129
+1384,Château Troplong Mondot,Completed,4.2,3,827,Château Troplong Mondot,33 05 5755 3205,contact@troplong-mondot.com,Jean-Pascal Schmidt,http://www.chateau-troplong-mondot.com,44.89601,-0.155475
+3866,Combier,Completed,3.9,11,2399,Domaine Combier (Laurent Combier),0475846156,domaine-combier@wanadoo.fr,,http://www.domaine-combier.com/,45.0078,4.87011
+7864,Bodega Elias Mora,Completed,3.9,11,430,Bodega Elías Mora,34 983 784 029,info@bodegaseliasmora.com,Victoria Benavides,http://www.bodegaseliasmora.com,41.48145,-5.277988
+5241,Domaine Bousquet,Completed,3.7,78,454,Domaine Bousquet,+54 2622 480 000,info@domainebousquet.com,Miquel Lenin,http://www.domainebousquet.com,,
+1724,Jean-Marc Brocard,Completed,3.8,83,428,Domaine Jean-Marc Brocard (Brocard),0386414900,info@brocard.fr,Jean-Marc Brocard,http://www.brocard.fr,47.95334,3.536602
+7636,Delas,Completed,3.7,55,429,Delas Freres,33 4 75 08 60 30,,,http://www.delas.com,45.073578,4.803883
+183112,Tenuta Castiglioni,Completed,3.7,8,394,Tenuta Castiglioni,+39 05 71 67 13 87,info@frescobaldi.it,,http://www.frescobaldi.it/,43.69609,11.075192
+1976,Terrazas de los Andes,Completed,3.7,52,454,Bodegas Terrazas de los Andes,(54 261) 488 0058,info@terrazasdelosandes.com,,http://www.terrazasdelosandes.com,-34.608418,-58.37316
+3149,Donnafugata,Completed,3.9,34,579,Donnafugata,39 0923 724 200 ,info@donnafugata.it,Antonio Rallo,http://www.donnafugata.it,37.788242,12.448781
+1495,Château Malescot St. Exupery,Completed,4.2,2,384,Château Malescot St. Exupery,33 05 57 88 97 20,malescotstexupery@malescot.com,,http://www.malescot.com,45.041115,-0.676115
+1319,Château Margaux,Completed,4.5,6,384,Château Margaux,+33 5 57 88 83 83,chateau-margaux@chateau.margaux.com,,http://www.chateau-margaux.com,45.044434,-0.668756
+3074,Schloss Johannisberg,Completed,4.0,27,479,Schloss Johannisberg,49 (931) 393 1414,info@schloss-johannisberg.com,Stefan Eiser,http://www.schloss-johannisberg.de/,,
+3407,Château Le Crock,Completed,4.0,2,456,Château Le Crock,33 556 590830 ,chateaulecrock@orange.fr,,http://www.chateaulecrock.fr/,45.26212,-0.807311
+124083,Château Rollan de By,Completed,3.8,5,417,Château Rollan de By,33 05 56 41 58 59,infos@rollandeby.com,Dorne Waters,rollandeby.com,46.55886,1.40625
+25891,Château Monbousquet,Completed,4.1,6,827,Château Monbousquet,33 0000 0000,,,http://www.chateaumonbousquet.com/,,
+1435,Château Guiraud,Completed,4.1,13,432,Château Guiraud,33 (0) 5 56 76 61 01,carolinedegremont@chateauguiraud.com,Xavier Planty,http://www.chateauguiraud.com,44.531376,-0.331334
+24636,Hacienda López de Haro,Completed,3.6,27,492,Hacienda López de Haro - Bodega Classica,34 941 271 217,comunicacion@vintae.com,Classica,http://bodegaclassica.com/en/,,
+5116,Château d'Issan,Completed,4.0,5,384,Château d'Issan,33 05 57 88 3591,issan@chateau-issan.com,Emmanuel Cruse,http://www.chateau-issan.com,45.02862,-0.654215
+7632,Château d'Aiguilhe,Completed,3.9,2,423,Château d'Aiguilhe,33 (0) 557 247 133,,Stephan von Neipperg,http://www.neipperg.com,44.881897,-0.142721
+227405,Terres Dorées,Completed,3.7,33,650,Domaine des Terres Dorées - Jean Paul Brun (JP Brun),33478479345,,,,,
+220326,Egiategia,Completed,3.7,7,3009,Egiategia,,,,https://www.egiategia.fr,,
+3023,Castellare,Completed,3.9,20,394,Castellare di Castellina,39 0577 742903,info@castellare.it,Andrea Cabib,http://www.castellare.it,43.73126,10.781426
+251020,RoseRock,Completed,4.0,3,2094,RoseRock (Rose Rock),,info@domainedrouhin.com,,http://roserockoregon.com/,,
+23591,Suertes del Marqués,Completed,3.7,24,1779,Suertes del Marqués,34922501300,,Suertes del Marqués,http://www.suertesdelmarques.com,,
+2284,Château Sénéjac,Completed,3.7,6,427,Château Sénéjac,33 05 56 70 20 11,chateau.senejac@wanadoo.fr,Charles Sawyer,http://www.chateau-senejac.com,44.9481,-0.63476
+2412,Inglenook,Completed,4.3,60,105,Inglenook Vineyards and Winery,707 967-3110,info@inglenook.com,John Richburg,http://www.inglenook.com,,
+11327,Domaine A. et P. de Villaine,Completed,3.9,16,2259,Domaine A. et P. de Villaine,33 03 8591 2050,contact@de-villaine.com,,http://www.de-villaine.com,,
+2864,Château Croix Mouton,Completed,3.6,5,738,Château Croix Mouton,33 (0)5 57259119,,,,44.957386,-0.340525
+1627,Mas de Daumas Gassac,Completed,3.7,78,833,Mas de Daumas Gassac,0467577128,export@daumas-gassac.com,Samuel Guibert,http://www.daumas-gassac.com,43.684105,3.588484
+1717,Alain Graillot,Completed,3.9,5,400,Domaine Alain Graillot,33 4 75 84 67 52,contact@domainegraillot.com,,,44.71695,4.81446
+1683,Château Cambon La Pelouse,Completed,3.8,7,427,Château Cambon La Pelouse,33 05 5788 4032,contact@cambon-la-pelouse.com,Monsieur de Cambon,http://www.cambon-la-pelouse.com,44.999996,-0.631816
+11458,Château Cantenac Brown,Completed,4.0,8,384,Château Cantenac Brown,33 05 5788 8181 ,contact@cantenacbrown.com,Château Cantenac Brown,http://www.cantenacbrown.com,45.02855,-0.65382
+11532,Château du Cèdre,Completed,3.7,25,611,Château du Cèdre (Verhaeghe & Fils),33 05 6536 5387,contact@chateauducedre.com,,http://www.chateauducedre.com,44.4866,1.10644
+1947,Château Grand-Puy Ducasse,Completed,3.9,11,393,Château Grand-Puy Ducasse,33 05 56 59 00 40,contact@cagrandscrus.com,Château Grand Puy Ducasse,http://www.grandpuyducasse.fr,46.642,2.338
+38505,Imperial,Completed,4.2,2,492,Imperial,34941 304 800,,CVNE Cune,http://www.cvne.com/tp-bodega/imperial/,,
+34701,de Ladoucette,Completed,4.1,23,2308,Domaine de Ladoucette,33 (0) 3 86 39 18 33,,de Ladoucette,http://www.deladoucette.net,,
+3827,Domaine du Clos des Fées,Completed,3.9,21,536,Domaine du Clos des Fées,0468294000,info@closdesfees.com,,http://www.closdesfees.com,42.85027,2.77616
+1264,Château Clinet,Completed,3.9,7,555,Château Clinet,33 (0)5 57 25 50 00,contact@chateauchlinet.com,Jean-Louis Laborde,http://www.chateauclinet.com,44.93499,-0.209973
+3997,Il Borro,Completed,4.0,14,394,Il Borro,39 055 977053,ilborro@ilborro.it,Salvatore Ferragamo,http://www.ilborro.com,43.561096,11.528109
+1912,Château Marjosse,Completed,3.6,9,383,Château Marjosse (Pierre Lurton),33 5 57 55 57 80,chateaumarjosse@gmail.com,,https://www.marjosse.com/,44.821266,-0.249879
+18242,Pasquiers,Completed,3.7,17,840,Vignoble des Pasquiers,33 04 9046 8397,,,http://www.domainedespasquiers.com/,44.099327,4.867071
+11507,Château Meyney,Completed,3.9,5,456,Château Meyney,33 05 56 59 00 40,contact@cagrandscrus.fr,,http://www.meyney.fr,45.201046,-0.746465
+227751,Château de Nages,Completed,3.6,19,3198,Château de Nages,33 04 66 38 44 30,info@chateaudenages.com,,http://www.chateaudenages.com/,,
+3929,Wittmann,Completed,3.9,95,480,Weingut Wittmann,49 06 244 905 036,info@wittmannweingut.com,Günter u. Philipp Wittmann,http://www.weingutwittmann.de/en/wine,,
+1748,Château de Fonbel,Completed,3.8,1,827,Château de Fonbel,33 05 57 24 70 26,,,http://www.chateau-ausone-saint-emilion.com,44.89601,-0.155475
+1388,Domaine de la Janasse,Completed,3.9,27,429,Domaine de la Janasse,33 04 9070 8629,lajanasse@free.fr,Aime Sabon,http://www.lajanasse.com,44.081516,4.881746
+68951,Grosbois,Completed,3.7,13,672,Domaine Grosbois,33 2 47 58 66 87,grosboisnicolas@yahoo.fr,Jacques Grosbois,http://www.domainegrosbois.fr/,,
+4596,Domaine des Roches Neuves,Completed,3.8,31,729,Thierry Germain - Domaine des Roches Neuves,330241529402 ,thierry-germain@wanadoo.fr,Alan Phillips,http://www.rochesneuves.com,47.224197,-0.063659
+1542,Château Bernadotte,Completed,3.7,3,427,Château Bernadotte,33 05 5656 5704,,May-Eliane de Lencquesaing,http://www.chateau-bernadotte.com,44.8667,0.5833
+20730,Pinna Fidelis,Completed,3.7,11,405,Bodegas Pinna Fidelis,34 983 878 034,info@pinnafidelis.com,,http://www.pinnafidelis.com/,,
+2250,Château de Pibarnon,Completed,4.0,6,648,Château de Pibarnon,+33 4 94 90 12 73,contact@pibarnon.fr,Saint Victor,http://www.pibarnon.com,43.195335,5.753738
+41743,Casa Rojo,Completed,3.7,50,420,Casa Rojo,(+34) 968 15 15 20 ,info@casarojo.com,Casa Rojo,http://www.casarojo.com/,,
+2207,Château Malescasse,Completed,3.8,5,427,Château Malescasse,33 05 56 73 15 20,malescasse@chateau-malescasse.com,,http://www.chateau-malescasse.com,45.09291,-0.71628
+12043,Château Larose-Trintaudon,Completed,3.8,5,427,Château Larose-Trintaudon,33 05 56 59 41 72,,Franck Bijon,http://www.chateau-larose-trintaudon.fr,45.06752,-0.721651
+1708,Château Haut-Batailley,Completed,4.1,3,393,Château Haut-Batailley,33 05 56 73 16 73,,,,46.642,2.338
+3104,Bibi Graetz,Completed,3.7,31,394,Testamatta di Bibi Graetz,39 055 597222,info@bibigraetz.com,Bibi Graetz,http://www.bibigraetz.com,43.794052,11.314494
+1603,Clos Mogador,Completed,4.3,5,463,Clos Mogador,977 839 171,closmogador@closmogador.com,René Barbier,http://www.closmogador.com/,41.189857,0.771238
+10454,Château Canon,Completed,4.2,3,827,Château Canon,33 05 57 55 23 45,contact@chateau-canon.com,,http://www.chateaucanon.com,46.61246,1.48461
+19060,Girolamo Russo,Completed,4.0,7,2814,Azienda Agricola Girolamo Russo,,,,http://www.girolamorusso.it/,,
+1513,Château La Conseillante,Completed,4.3,3,555,Château La Conseillante,33 05 57 51 15 32,contact@la-conseillante.com,Château La Conseillante,http://www.la-conseillante.com/en,44.935345,-0.202473
+4343,Livio Felluga,Completed,3.9,27,2526,Livio Felluga,+39048160203,info@liviofelluga.it,Livio Felluga,http://www.liviofelluga.it,45.971054,13.457232
+2914,Château La Tour de Mons,Completed,3.9,3,384,Château La Tour de Mons,33 05 57 88 33 03,contact@chateau-latourdemons.com,,http://www.chateau-latourdemons.com,45.058846,-0.690945
+64252,Château Mouton Rothschild,Completed,4.5,7,393,Château Mouton Rothschild by Baronne Philippine de Rothschild,+33 (0)5 56 73 21 29,,Château Mouton Rothschild,http://www.chateau-mouton-rothschild.com,45.21312,-0.769852
+9274,Château Teyssier,Completed,3.8,13,827,Château Teyssier,+33(0)5 57 84 63 54,ali@maltus.com,Jonathan Maltus,http://www.teyssier.fr,44.84397,-0.160378
+11007,Tua Rita,Completed,4.0,30,394,Azienda Agricola Tua Rita,39 0565 829 237,info@tuarita.it,"Rita Tua, Luca D'Attoma",http://www.tuarita.it,43.064133,10.68916
+2008,Château Dauzac,Completed,4.1,7,384,Château Dauzac,33 05 5725 5858,chateaudauzac@chateaudauzac.com,Château Dauzac,http://www.chateaudauzac.com,45.01392,-0.61934
+11601,Quintarelli Giuseppe,Completed,4.5,15,460,Azienda Agricola Quintarelli Giuseppe (Quintarelli),+39 045 750 0016,giuseppe.quintarelli@tin.it,Quintarelli,,45.51996,10.947095
+66109,Viña Real,Completed,3.7,14,492,Bodega Viña Real,34 945 62 52 55,,CVNE Cune,http://www.cvne.com/en/wines/,,
+41443,Château Capbern,Completed,3.9,2,456,Château Capbern,,,,,,
+25713,Château du Retout,Completed,3.7,3,427,Château du Retout,33 5 5658 9108,contact@chateau-du-retout.com,,http://www.chateau-du-retout.com,45.114983,-0.731125
+25233,Les Creisses,Completed,4.1,3,833,Domaine Les Creisses,33 0 7 71 80 40 75,,,https://www.les-creisses.com/domaine.html,,
+1360,Domaine William Fèvre,Completed,4.1,17,428,Domaine William Fèvre,33 03 8698 9898,contact@williamfevre.com,William Fevre,http://www.williamfevre.fr,47.816525,3.8056
+20682,Badenhorst,Completed,3.7,47,742,A.A. Badenhorst Family Wines (AA Badenhorst),27(0) 082 3735038,adi@iafrica.com,Jasper Wickens,http://www.aabadenhorst.com/,,
+7609,Château Haut-Bailly,Completed,4.1,7,471,Château Haut-Bailly,33 (0)5 56 64 75 11,mail@chateau-haut-bailly.com,Véronique Sanders,http://www.chateau-haut-bailly.com,44.729073,-0.600459
+2107,Château Latour,Completed,4.5,7,393,Château Latour,33 03 86 50 20 15,,Chateau Latour,http://www.chateau-latour.com,46.81546,3.726688
+1392,Louis Latour,Completed,3.8,232,408,Maison Louis Latour,33 03 80 24 81 10,fmigeon@louislatour.com,,http://www.louislatour.com,47.024086,4.8401
+59199,Château Pey de Pont,Completed,3.7,1,417,Château Pey de Pont,,,,,,
+11079,Ferraton Père & Fils,Completed,3.7,42,400,Domaine Ferraton Père & Fils – Caveau,33 04 7508 5951,ferraton@ferraton.fr,,http://www.ferraton.fr,45.069027,4.84058
+1215,Alain Jaume,Completed,3.9,47,401,Vignobles Alain Jaume & Fils,33 04 90 34 68 70,jaume@domaine-grand-veneur.com,Alain Jaume,http://www.vignobles-alain-jaume.com,44.027237,4.862186
+2349,Château La Pointe,Completed,4.0,2,555,Château La Pointe,(33) 05 57 51 02 11,,Château La Pointe,http://www.chateaulapointe.com,44.935345,-0.202473
+3633,Castello di Farnetella,Completed,3.6,9,683,Castello di Farnetella,39 0577 355 117 ,info@farnetella.com,,http://www.farnetella.com/,43.213387,11.739463
+3175,Château Puech-Haut,Completed,4.0,43,536,Château Puech-Haut,04 99 62 27 27,chateau.puech-haut@wanadoo.fr,,https://puech-haut.com/chateau-et-domaine,43.663902,3.956301
+5087,Cantele,Completed,3.8,38,548,Azienda Vinicola Cantele,39 0832 705 010,cantele@cantele.it,Cantele,http://www.cantele.it,40.352764,18.188934
+6490,Clos Henri Vineyard,Completed,3.7,11,732,Clos Henri Vineyard,64035727923,sales@closhenri.com,Bourgeois Family,http://www.clos-henri.com,-36.911556,174.80257
+65349,Clos des Lunes,Completed,3.7,7,432,Clos des Lunes (by Domaine de Chevalier),,olivierbernard@closdeslunes.com,,http://www.closdeslunes.com/en/#accueil,,
+7662,Château Pierrail,Completed,3.8,9,738,Château Pierrail,33 05 57 41 21 75,alice.pierrail@orange.fr,Aurelien Demonchaux,http://www.chateaupierrail.com,44.76195,0.249531
+2126,Château Siran,Completed,3.9,6,384,Château Siran,33 (0)557883404,info@chateausiran.com,Château Siran,http://www.chateausiran.com,45.015125,-0.639509
+4250,Château du Glana,Completed,3.8,6,399,Château du Glana,33 05 56 59 06 47,contact@chateau-du-glana.com,Jean-Paul Meffre,http://www.chateau-du-glana.com,45.16407,-0.738219
+1578,Château La Louvière,Completed,3.9,11,471,Château La Louvière,+ 33 (0)5 56 64 75 87,lalouviere@andrelurton.com,Andre Lurton,http://www.andrelurton.com,44.729073,-0.600459
+14302,Dönnhoff,Completed,4.0,57,578,Weingut Hermann Dönnhoff,,weingut@doennhoff.com,Dorne Waters,http://www.doennhoff.com,,
+2477,Château Marquis de Terme,Completed,4.0,9,384,Château Marquis de Terme,33 05 57 88 30 01,,Château Marquis de Terme,http://www.chateau-marquis-de-terme.com,45.036392,-0.748784
+1940,Château La Gaffelière,Completed,4.1,5,827,Château La Gaffelière - Domaines Comte de Malet Roquefort,33 (0)5 57 24 72 15,,Château la Gaffelière,http://www.chateau-la-gaffeliere.com,44.89601,-0.155475
+252395,Château Cap d’Or,Completed,3.8,1,2148,Château Cap d’Or,,,,,,
+1680,Château Gazin,Completed,4.2,3,555,Château Gazin,33 (0)5 57 51 07 05,contact@gazin.com,Mickaël Obert,http://www.gazin.com,44.931442,-0.186483
+8304,Volpaia,Completed,3.8,13,394,Castello di Volpaia,39 0577 738 066,info@volpaia.com,Lorenzo Regoli,http://www.volpaia.it,44.9531,9.29686
+1740,Pintia,Completed,4.3,1,430,Bodegas Pintia (Bodegas y Viñedos Pintia),34 0983 680 147,vegasicilia@vega-sicilia.com,Pablo Álvarez,http://www.vega-sicilia.com/en/wine/233/pintia,,
+1524,Mas Doix,Completed,4.0,8,463,Celler Mas Doix,34 628 800 466,info@masdoix.com,Juan Doix,http://www.masdoix.com,41.23589,0.847192
+246747,Orma,Completed,4.2,2,673,Orma,39 0575 477857,info@ormabolgheri.it,Podere Orma,http://www.ormawine.it/vini/,,
+196593,Château Les Grands Chênes,Completed,3.7,6,417,Château Les Grands Chênes,,,,,,
+1481,Domaine de Beaurenard,Completed,4.0,20,401,Domaine de Beaurenard (Paul Coulon Et fils), 33 0 4 90 83 71 79 ,paul.coulon@beaurenard.fr,,http://www.beaurenard.fr,44.05251,4.835136
+11725,Château Greysac,Completed,3.8,6,417,Château Greysac,33 05 56 73 26 56,communication@rollandeby.com,Jean-Luc MARTEAU,http://www.greysac.com,45.373653,-0.865028
+2690,Cordero di Montezemolo,Completed,4.0,18,389,Cordero di Montezemolo - Azienda Agricola Monfalletto,39 0173 50344,info@corderodimontezemolo.com,Cordero di Montezemolo,http://www.corderodimontezemolo.it,44.638454,7.955805
+4577,Château Mongravey,Completed,3.9,7,384,Château Mongravey,33 (0)5 56 58 84 51,chateau.mongravey@wanadoo.fr,,http://www.chateau-mongravey.fr,44.995716,-0.688445
+2235,Château Pibran,Completed,4.0,2,393,Château Pibran,33 05 56 73 17 17 ,contact@pichonbaron.com,,http://www.pichonbaron.com,45.199203,-0.748886
+11463,Château La Fleur de Boüard,Completed,3.9,4,386,Château La Fleur de Boüard,33 05 57 25 25 13,contact@lafleurdebouard.com,Jean-Pierre Moueix,http://www.lafleurdebouard.com,44.9314,-0.20158
+3447,Château l'Enclos,Completed,4.1,1,555,Château l'Enclos,33 05 57 74 80 51,chateaufonplegade@fonplegade.fr,,http://www.fonplegade.com/,44.794197,0.205711
+2525,Château Olivier,Completed,4.0,15,471,Château Olivier,33 05 56 64 73 31,mail@chateau-olivier.com,,http://www.chateau-olivier.com,44.749752,-0.588383
+25253,Château Noaillac,Completed,3.7,5,417,Château Noaillac,,,Xavier & Damien Pagès,http://www.noaillac.com/,,
+15284,Domaine Lafage,Completed,3.8,76,536,Domaine Lafage,,,Fernando van Zeller Guedes,http://www.domaine-lafage.com,,
+1358,Joseph Drouhin,Completed,3.9,196,385,Maison Joseph Drouhin,33 03 80 24 68 88,maisondrouhin@drouhin.com,Joseph Drouhin,http://www.drouhin.com/en,47.023262,4.836031
+2344,Château Beauregard,Completed,4.0,9,555,Château Beauregard,33 05 57 51 13 36,beauregard@chateau-beauregard.com,,http://www.chateau-beauregard.com,44.935345,-0.202473
+32769,Régnard,Completed,4.1,72,428,Maison Régnard,+33 03 86 42 10 45,regnard.chablis@regnard-chablis.fr,Regnard,,47.815163,3.79799
+40859,Château Haut-Bergey,Completed,3.9,7,471,Château Haut-Bergey,,,,http://www.haut-bergey.fr,,
+2313,Fattoria le Pupille,Completed,3.9,15,2916,Fattoria le Pupille Elisabetta Geppetti,39 0564 409517,info@fattorialepupille.it,"Elisabetta Geppetti, Luca D'Attoma",http://www.fattorialepupille.it/,42.782665,11.188463
+22269,Proyecto Garnachas de España,Completed,3.7,6,465,Proyecto Garnachas de España,,,,http://garnachasdeespana.com/en,,
+2039,Château Cos Labory,Completed,3.9,3,456,Château Cos Labory,33 05 5659 3022,,,http://www.cos-labory.com/,46.642,2.338
+21248,Pépière,Completed,3.8,17,729,Domaine de la Pépière (Marc Ollivier),330962331503,earl.lapepiere@orange.fr,,http://www.domainedelapepiere.com,47.105637,-1.412844
+7952,Château Langoa Barton,Completed,4.1,3,399,Château Langoa Barton,33 05 56 590 605,chateau@leoville-barton.com,Château Langoa Barton,http://www.leoville-barton.com,45.1641,-0.73846
+29696,Clos des Papes (Paul Avril),Completed,4.3,4,401,Clos des Papes (Paul Avril),+33 490 837013,contact@clos-des-papes.com,,http://www.clos-des-papes.fr,,
+2674,Clos Floridène,Completed,3.7,8,451,Clos Floridène,+33 556 271584,,Clos Floridène,http://www.denisdubourdieu.fr,46.642,2.338
+1574,Avignonesi,Completed,4.0,51,394,Avignonesi,39 0578 724304,info@avignonesi.it,Tenuta Avignonesi,http://www.avignonesi.it,42.719883,11.189456
+2243,Château Tronquoy-Lalande,Completed,3.9,3,456,Château Tronquoy-Lalande,33 05 5635 5300,,,http://www.tronquoy-lalande.com/,45.26475,-0.771776
+2318,Château Rauzan-Gassies,Completed,4.0,12,384,Château Rauzan-Gassies,33 05 5788 7188,,,http://www.rauzangassies.fr/,44.61621,-0.542295
+2226,Yves Cuilleron,Completed,4.0,49,400,Cave Yves Cuilleron (Domaine Yves Cuilleron),04 74 87 02 37,cave@cuilleron.com,Cave Yves Cuilleron,http://www.cuilleron.com,45.433216,4.743478
+13146,Château La Mission Haut-Brion,Completed,4.4,4,471,Château La Mission Haut-Brion,33 05 5600 2930,,Château La Mission Haut Brion,http://www.mission-haut-brion.com,44.815636,-0.603513
+11481,Château Nénin,Completed,4.0,3,555,Château Nénin,33 05 56 73 25 26,,,,44.935345,-0.202473
+1441,Paolo Scavino,Completed,4.0,18,504,Paolo Scavino,39 0173 62 850,info@paoloscavino.com,Paolo Scavino,http://www.paoloscavino.com,44.640526,7.972615
+6942,MAN,Completed,3.5,24,533,MAN Family Wines (MAN Vintners),+27 21 861 7759,info@manwines.com,Francois Bezuidenhout,http://www.manwines.com/,-33.953827,18.910475
+26061,Domaine Long Depaquit,Completed,4.0,13,428,Domaine Long-Depaquit,+33 (0)3 80 24 37 37,bourgogne@albert-bichot.com,,https://www.albert-bichot.com/,,
+3196,Alphonse Mellot,Completed,3.9,40,635,Alphonse Mellot (Domaine de la Moussière),33  0 2 48 54 07 41,alphonse@mellot.com,,http://www.mellot.com,47.330063,2.836868
+24220,Château Loudenne,Completed,3.8,17,417,Château Loudenne,,,,http://www.chateau-loudenne.com/,,
+3151,Donatella Cinelli Colombini,Completed,4.0,22,394,Donatella Cinelli Colombini,39 0577 849421,donatella@cinellicolombini.it,Donatella Cinelli Colombini,http://www.cinellicolombini.it,43.06059,11.488983
+11815,Descendientes de J. Palacios,Completed,3.9,12,628,Bodegas Descendientes de J. Palacios (Descendientes de José Palacios),34 987 540 821,info@djpalacios.com,Ricardo Perez,,42.603436,-6.813431
+1547,Château Beau-Sejour Becot,Completed,4.2,6,827,Château Beau-Sejour Becot,33 5 57744687,contact@beausejour-becot.com,Gerard Becot,http://www.beausejour-becot.com,44.89601,-0.155475
+3530,Château Fourcas Dupré,Completed,3.7,10,644,Château Fourcas Dupré,33 05 56 58 01 07,chateau-fourcas-dupre@wanadoo.fr,,http://www.fourcasdupre.com,45.07415,-0.79258
+197195,Château Canon-La-Gaffelière,Completed,4.3,3,827,Château Canon-La-Gaffelière,33 (0) 557 247 133,,Stephan von Neipperg,http://www.neipperg.com,44.881897,-0.142721
+2398,Château Brown,Completed,3.9,7,471,Château Brown,(33)(0)5 56 87 08 10,frederic@agence-fleurie.com,Bruno Patrouilleau,http://www.chateau-brown.com,44.729073,-0.600459
+16192,Paco & Lola,Completed,3.8,13,766,Paco & Lola,34 986 747 779,international@rosaliadecastro.eu,Vitivinícola Arousana,http://www.pacolola.com,42.446,-8.791162
+4043,Château Dassault,Completed,4.1,4,827,Château Dassault,33 05 57551000,lbv@chateaudassault.com,Marcel Dassault,http://www.chateaudassault.com,44.89601,-0.155475
+2337,Château Valandraud,Completed,4.2,12,827,Château Valandraud,33 05 5755 0913,thunevin@thunevin.com,Rob Newsom,http://www.thunevin.com,44.85295,-0.579391
+2120,Château Rouget,Completed,4.1,3,555,Château Rouget,33 05 5751 0585,chateau.rouget@wanadoo.fr,Michel Rolland,http://www.chateau-rouget.com,44.93104,-0.197594
+212164,Santa Cristina,Completed,3.6,20,394,Santa Cristina (Santa Cristina by Antinori),+39 05 52 35 95,info@santacristina1946.it,,http://santacristina1946.it/,,
+234859,Montedidio,Completed,3.9,20,640,Società Agricola Montedidio,,,,,,
+2748,Domaine Vacheron,Completed,4.0,17,635,Domaine Vacheron,33 02 48 54 09 93,,Domaine Vacheron,,47.32928,2.83793
+1949,Argiolas,Completed,3.9,36,530,Argiolas,39 070 740606,info@argiolas.it,Mariano Murru,http://www.argiolas.it,,
+2481,Château Fourcas Hosten,Completed,3.8,7,644,Château Fourcas Hosten,33 (0) 5 56 58 01 15,contact@fourcas-hosten.com,,http://www.fourcas-hosten.fr/,46.642,2.338
+2262,Mauro Molino,Completed,4.0,18,389,Azienda Vinicola Mauro Molino,39 0173 508 14,info@mauromolino.com,Mauro Molino,http://www.mauromolino.it,7.957707,44.636
+192107,Château Coutet,Completed,4.0,4,827,Château Coutet,+33 (0)5 57 74 43 21,contact@chateau-coutet.com,,http://www.chateau-coutet.com,,
+3708,Château de Rochemorin,Completed,3.9,3,471,Château de Rochemorin,33 05 57 25 58 58,andrelurton@andrelurton.com,,http://www.andrelurton.com,44.64101,0.69669
+11477,Marchesi di Gresy,Completed,4.1,18,389,Marchesi di Gresy (Tenute Cisa Asinari dei Marchesi di Grésy),39 0173 635 221,wine@marchesidigresy.com,Marchesi di Gresy,http://www.marchesidigresy.com,44.725048,8.080868
+1945,Michele Chiarlo,Completed,3.8,89,389,Azienda Vitivinicola Michele Chiarlo,39 0141 769 030,info@chiarlo.it,,http://www.michelechiarlo.it,44.73813,8.339852
+231759,Chateau Cap St George,Completed,3.8,1,2148,Chateau Cap St George (Chateau Cap Saint George),,,,,,
+171548,Dominio del Aguila,Completed,4.1,6,405,Dominio del Aguila,34 638 899 236,info@dominiodelaguila.com,,http://www.dominiodelaguila.com/,,
+11225,Château de Sancerre,Completed,4.0,6,635,Château de Sancerre,33 02 4878 5152,,,http://houseofmarnier.com/sancerre/#blanc,47.332592,2.840706
+26164,Miraval,Completed,3.9,15,450,Château Miraval (Miraval Provence),,contact@miraval-provence.com,Château Miraval,http://miraval-provence.com,43.47329,6.036987
+7617,Château Ferrière,Completed,3.9,2,384,Château Ferrière,33 05 5658 0237,info@ferriere.com,,http://www.ferriere.com,45.041115,-0.676115
+3531,Tenuta delle Terre Nere,Completed,3.9,15,2814,Tenuta delle Terre Nere,39 095 924 002,info@tenutaterrenere.com,Calogero Statella,http://www.tenutaterrenere.com,37.885815,15.019189
+3049,Château Bouscaut,Completed,3.9,9,471,Château Bouscaut,33 05 57 83 12 20,,Lucien Lurton,http://www.chateau-bouscaut.com,44.755646,-0.529916
+1489,Château Pavie Macquin,Completed,4.2,3,827,Château Pavie Macquin,33 05 57 24 74 23,contact@pavie-macquin.com,Corre Macquin,http://www.pavie-macquin.com,44.89601,-0.155475
+8050,Cuvelier Los Andes,Completed,4.0,21,454,Bodega Cuvelier Los Andes,54 261 4765404,amanchon@cuvelierlosandes.com,Adrian Manchon,http://www.cuvelierlosandes.com,-31.394875,-64.22762
+17444,Marrenon,Completed,3.7,97,840,Vignobles Marrenon -  UVCL,33 04 90 07 40 65,marrenon@marrenon.com,Charles Vivet,http://www.marrenon.fr,43.72524,5.548023
+13733,Château Croizet-Bages,Completed,3.9,9,393,Château Croizet-Bages,33 05 5659 0162,,Château Croizet Bages,,45.191135,-0.758374
+17490,Château Martet,Completed,4.2,14,383,Château Martet,33 05 57 41 00 49,info@chateaumartet.com,Bernard Lomenie,http://www.chateaumartet.com,44.81319,0.157359
+13804,Château Haut-Brion,Completed,4.5,6,471,Château Haut-Brion,33 05 5600 2930,,Château Haut Brion,http://www.haut-brion.com,43.914074,1.378174
+3083,Domaine de l'Hortus,Completed,3.8,15,536,Domaine de l'Hortus (Jean Orliac),33 04 6755 3120,contact@domaine-hortus.fr,Jean Orliac,http://www.domaine-hortus.fr/en,43.800472,3.871705
+2580,Château Soutard,Completed,4.0,9,827,Château Soutard,33 05 5724 7223,,,http://www.chateau-soutard.com,44.90219,-0.150927
+2957,Château Fonroque,Completed,3.9,3,827,Château Fonroque,33 05 5751 7896,,,http://www.chateaufonroque.com,44.89601,-0.155475
+5959,Rimauresq,Completed,3.9,16,450,Domaine de Rimauresq,33(0)494488045,rimauresq@wanadoo.fr,Pierre Duffort,http://www.rimauresq.fr,43.281284,6.293618
+42846,Château Beau-Site,Completed,4.0,2,456,Château Beau-Site,,,,http://www.chateau-beausite.fr/,,
+51459,Domaine Pattes Loup,Completed,4.0,11,428,Domaine Pattes Loup (Thomas Pico),03 86 41 46 38,thomas.pico@pattes-loup.com,,http://www.pattes-loup.com/,,
+3761,Château Mazeyres,Completed,3.9,4,555,Château Mazeyres,33 05 5751 0048,communication@mazeyres.com,Etienne Charrier,http://www.mazeyres.com,44.93205,-0.238099
+16569,Château de Pez,Completed,4.0,1,456,Château de Pez,33 00 0000,,,http://chateaudepez.com/en/homepage.html,46.642,2.338
+6775,Caiarossa,Completed,4.1,8,394,Caiarossa,0586699016,info@caiarossa.it,Caiarossa,http://www.caiarossa.com,43.361958,10.61067
+2455,Château La Garde,Completed,3.9,5,471,Château La Garde,33 556 355300,,Vignoble Dourthe,http://www.dourthe.com,44.710094,-0.538862
+11484,Château Puygueraud,Completed,3.6,9,572,Château Puygueraud,+33 (0)5 57 56 07 47,contact@puygueraud.com,Nicolas Thienpont,http://www.puygueraud.com,44.93622,-0.02129
+233243,Clos de Bouard,Completed,3.8,3,2146,Château Clos de Bouard,,,,,,
+106613,Domaine du Coulet - Matthieu Barret,Completed,3.8,25,482,Domaine du Coulet - Matthieu Barret,+33 04 75 80 08 25,matthieu.barret@domaineducoulet.com,,http://domaineducoulet.com,44.9633,4.844707
+230996,Château Gaillard,Completed,3.9,2,827,Château Gaillard,0 5 57 24 72 44,,,http://vignoblesjjnouvel.com/,,
+3313,Château de Chamirey,Completed,4.0,13,2261,Château de Chamirey,33 (0) 3 85 45 21 61,contact@chateaudechamirey.com,,http://www.chamirey.com/en,46.8303,4.72764
+1404,Domaine Leflaive,Completed,4.3,31,385,Domaine Leflaive,33 03 80 21 30 13 ,contact@leflaive.fr,Anne-Claude Leflaive,http://www.leflaive.fr,46.944897,4.752831
+202576,Domaine La Roquète,Completed,4.1,3,401,Domaine La Roquète,33490332075,daniel@brunier.fr,Daniel et Fredrick Brunier,,44.024483,4.883015
+90797,Château La Tour de Bessan,Completed,3.8,6,384,Château La Tour de Bessan,,,,,,
+3628,Château Reynon,Completed,3.7,9,3251,Château Reynon,33 05 5662 9651,reynon@wanadoo.fr,,http://www.denisdubourdieu.fr,44.645187,-0.327759
+119340,Château Cote de Baleau,Completed,3.9,1,827,Château Cote de Baleau,33 05 5724 7109,contact@lesgrandesmurailles.fr,,http://www.lesgrandesmurailles.fr,,
+28101,Laibach,Completed,3.8,34,533,Laibach Organic Vineyards,27 2 1884 4511,info@laibachwines.com,,http://www.laibachwines.com/,,
+75219,Château Négrit,Completed,3.5,1,2146,Château Négrit,,,,,,
+12059,Château Grand Corbin-Despagne,Completed,3.9,6,827,Château Grand Corbin-Despagne,33 05 5751 0838,contact@grand-corbin-despagne.com,,http://www.grand-corbin-despagne.com,44.923397,-0.177327
+3449,Coursodon,Completed,4.0,9,439,Domaine Coursodon (Pierre et Jérôme),+33 04 75 08 18 29,pierre.coursodon@wanadoo.fr,,http://www.domaine-coursodon.com/en/,45.041237,4.829631
+2994,Domaine du Grand Tinel,Completed,4.1,8,401,Domaine du Grand Tinel,33 04 9083 7028,contact@domainegrandtinel.com,,http://www.domainegrandtinel.com,44.03857,4.963762
+4743,Château de Pennautier,Completed,3.6,30,833,Château de Pennautier (Pennautier),33 4 68 72 65 29,contact@chateaudepennautier.com,Lara Gaillards,http://www.lorgeril.wine/index.php,43.261864,2.291895
+7075,L'Ostal Cazes,Completed,3.7,15,2385,Domaine L'Ostal Cazes,04 68 91 47 79,fdarmaillacq@lostalcazes.com,,http://www.lostalcazes.com,43.79896,-0.19267
+4733,Château de Pressac,Completed,4.0,4,827,Château de Pressac,05 57 40 18 02,,,http://chateaudepressac.com/en/chateau-tour-de-pressac/,44.89601,-0.155475
+2331,San Leonardo,Completed,4.0,15,576,Tenuta San Leonardo (Marchese Carlo Guerrieri Gonzaga),3488653906,info@sanleonardo.it,Tenuta San Leonardo,http://www.sanleonardo.it,45.704247,10.931203
+26353,Château Combel La Serre,Completed,3.7,15,611,Château Combel La Serre,+33 05 65 30 71 34	,combel.la.serre@wanadoo.fr,,,44.444077,1.329675
+247488,Tor del Colle,Completed,3.7,14,2835,Tor del Colle,,,,,,
+247979,Tournon,Completed,3.7,18,475,Domaine Tournon,,,,,,
+42780,Château Saint-Pierre,Completed,4.1,4,399,Château Saint-Pierre,+33 (0)5 56 59 08 18,contact@domaines-martin.com,Château Saint-Pierre,http://www.chateau-saint-pierre.com,,
+115956,Château Labrousse,Completed,3.5,4,3254,Château Labrousse - Jacques Chardat,05 57 32 51 61,,,http://www.chateau-labrousse.com/,,
+109240,Château Haut Langlade,Completed,3.8,4,2146,Château Haut Langlade,,,,,,
+15535,Clos Rene,Completed,4.0,1,555,Château Clos Rene,33 00 0000,,,,46.642,2.338
+6756,Magaña,Completed,3.7,14,1756,Bodegas Viña Magaña,34 948 85 00 34,,Magaña,http://www.vinamagana.com,41.970314,-1.663468
+1248,Bonneau du Martray,Completed,4.4,3,2236,Domaine Bonneau du Martray,33 03 80 21 50 64 ,contact@bonneaudumartray.com,,http://www.bonneaudumartray.com,47.08038,4.848274
+2023,Felton Road,Completed,4.1,13,668,Felton Road Wines,64 03 445 0885,Wines@FeltonRoad.com,Blair Walter,http://www.feltonroad.com,-45.08969,169.16113
+1538,Conterno Fantino,Completed,4.0,16,389,Azienda Agricola Conterno Fantino,39 0173 78204,info@conternofantino.it,,http://www.conternofantino.it,44.38825,7.54836
+363,Ridge Vineyards,Completed,4.2,122,24,Ridge Vineyards,4088673233,,Eric Baugher and John Olney,http://www.ridgewine.com,37.30008,-122.11597
+1852,Dal Forno Romano,Completed,4.6,5,460,Azienda Agricola Dal forno Romano,39 0457 834 923 ,info@dalfornoromano.it,Dal Forno Romano,http://www.dalfornoromano.it,,
+6334,Tenuta di Valgiano,Completed,3.9,7,394,Tenuta di Valgiano,390583402271,info@valgiano.it,Tenuta di Valgiano,http://www.valgiano.it,43.906483,10.591147
+4469,Clos des Menuts,Completed,4.0,3,827,Clos des Menuts,+33 05 57 74 45 77,closdesmenuts@live.fr,Clos De Menuts,http://www.clos-des-menuts.com,44.894794,-0.154966
+15945,Château Grand Corbin,Completed,3.9,3,827,Château Grand Corbin,33 05 57 24 70 62,contact@chateau-grand-corbin.com,G.F.A. Giraud,http://www.grand-corbin.com,44.919205,-0.16741
+1935,Domaine Chante Cigale,Completed,3.9,16,401,Domaine Chante Cigale,33 04 90 83 70 57,info@chante-cigale.com,Alexandre Favier,http://www.chantecigale.com,44.05754,4.83502
+1509,Château Caronne Ste. Gemme,Completed,3.8,5,427,Château Caronne Ste. Gemme,33 (0) 5 56 87 56 81,gnony@chateau-caronne-ste-gemme.com,Olivier Dauga,http://caronne-ste-gemme.com,45.150337,-0.821955
+119186,Gómez Cruzado,Completed,3.9,31,492,Bodegas Gomez Cruzado,34 941 312 502,bodega@gomezcruzado.com,David Gonzalez,http://www.gomezcruzado.com,42.584213,-2.846703
+7969,Pieropan,Completed,3.9,13,460,Azienda Vitivinicola Pieropan Leonildo,39 0456 190 171,info@pieropan.it,Nino Pieropan,http://www.pieropan.it,,
+2200,Bruno Rocca,Completed,4.0,12,722,Bruno Rocca,39 0173 635112,info@brunorocca.it,Bruno Rocca,http://www.brunorocca.it,48.251484,-4.165338
+14418,Château Fonréaud,Completed,3.7,9,644,Château Fonréaud,33 05 5658 0243,,,http://www.chateau-fonreaud.com,45.0751,-0.790188
+1607,Château Doisy-Daëne,Completed,4.1,6,432,Château Doisy-Daëne,33 05 56 62 96 51,reynon@wanadoo.fr,Château Doisy-Daëne,http://www.denisdubourdieu.fr,44.6385,-0.276075
+29564,Contino,Completed,4.2,21,492,Viñedos del Contino,34 945 600 201,,C.V.N.E. - Viñedos de Contino,http://www.cvne.com/tp-bodega/cotino/,,
+247688,Piedlong,Completed,4.1,1,401,Domaine la Roquete Piedlong,,,,,,
+3020,Viu Manent,Completed,3.6,77,737,Viu Manent,56 2 379 0020,jplaceros@vuimanent.cl,Juan Pablo Laceros,http://www.viumanent.cl,-33.440212,-70.613365
+7028,Château de Marsannay,Completed,3.9,57,822,Château de Marsannay,33 380517111,chateau.marsannay@kriter.com,Don Baumhefner,http://www.chateau-marsannay.com,47.244137,4.972875
+7927,Tenuta Il Poggione,Completed,4.1,21,394,Tenuta Il Poggione,+390577844029,info@ilpoggione.it,Fabrizio Bindocci,http://www.tenutailpoggione.it,42.98532,11.458754
+25452,Château Pindefleurs,Completed,3.9,2,827,Château Pindefleurs,,,,,,
+26060,Cosse Maisonneuve,Completed,3.8,17,611,Domaine Cosse Maisonneuve,+33 05 65 24 22 37,,,,44.47564,1.057751
+11568,Château Boyd-Cantenac,Completed,4.0,7,384,Château Boyd-Cantenac,33 05 5788 9082,contact@boyd-cantenac.fr,Lucien Guillemets,http://www.boyd-cantenac.fr,45.02862,-0.654215
+51301,Bodega Campo Eliseo,Completed,3.9,7,404,Bodega Campo Eliseo,,,El Albar Lurton,,,
+2461,Domaine Antonin Guyon,Completed,3.9,36,2238,Domaine Antonin Guyon,33 03 80 67 13 24,domaine@guyon-bourgogne.com,Vincent Nicot,http://www.guyon-bourgogne.com,47.062458,4.821918
+1525,Château La Fleur-Pétrus,Completed,4.5,1,555,Château La Fleur-Pétrus,33 05 5751 7896,,Jean-Pierre Moueix,http://www.moueix.com,44.933247,-0.192586
+3247,Vincent Paris,Completed,3.9,16,400,Domaine Vincent Paris,33475401304,,,,44.95705,4.851765
+218687,Finca Bacara,Completed,3.8,12,544,Finca Bacara,+34 868 175 600,info@fincabacara.com,,http://www.fincabacara.com/,,
+4321,Château Pouget,Completed,4.1,3,384,Château Pouget,33 04 6786 0882,le.pouget@wanadoo.fr,Lucien Guillemets,http://www.chateau-pouget.com,43.71406,4.098245
+3725,Georges Vigouroux,Completed,3.6,97,611,Georges Vigouroux,33 05 6520 8080,web@g-vigouroux.fr,Bertrand-Gabriel Vigouroux,http://g-vigouroux.fr/,44.415936,1.437565
+3979,Château Desmirail,Completed,4.0,7,384,Château Desmirail,33 05 5788 3433,contact@desmirail.com,Denis Lurton,http://www.desmirail.com,45.02862,-0.654215
+56787,J.A. Ferret,Completed,4.2,14,2264,Domaine J.A. Ferret (Domaine Ferret),+33 3 85 35 61 56,,,http://www.domaine-ferret.com/en/,,
+1312,Pegau,Completed,4.1,14,401,Domaine du Pegau (Château Pegau),+33 04 9083 7270,pegau@pegau.com,Léon Feraud,http://www.pegau.com,44.059456,4.834029
+2026,Hugel,Completed,3.8,55,387,Famille Hugel (Famille Hugel & Fils),+33 (0)3 89 47 92 15,info@hugel.com,,http://m.hugel.com,48.16648,7.297221
+28395,Château Meyre,Completed,3.7,7,427,Château Meyre,,chateau.meyre@wanadoo.fr,Dorne Waters,http://www.chateaumeyre.com/hotel/,,
+2352,Domaine Breton - Catherine & Pierre Breton,Completed,3.8,27,729,Domaine Breton - Catherine & Pierre Breton,33 (0)247973041,,Catherine & Pierre Breton,http://www.domainebreton.net/,47.28151,0.22885
+20911,Château Siaurac,Completed,3.7,9,386,Château Siaurac,33.5.57.51.65.20,,,http://www.siaurac.com/,,
+1514,Domenico Clerico,Completed,4.0,11,389,Domenico Clerico e Giuliana,39 0173 78171,info@domenicoclerico.com,Domenico Clerico,http://www.domenicoclerico.com/,,
+1445,Newton,Completed,4.0,25,97,Newton Vineyard,(707) 963-9000,winery@newtonvineyard.com,Chris Millard,http://www.newtonvineyard.com,38.495464,-122.48161
+96398,Château Joanin Bécot,Completed,3.8,1,423,Château Joanin Bécot,,,,,,
+2277,Château Cap de Faugères,Completed,3.6,3,423,Château Cap de Faugères,33 05 57 40 34 99 ,info@vignobles-silvio-denz.com,,http://www.chateau-cap-de-faugeres.com,44.901016,-0.019999
+1833,Petrolo,Completed,4.0,19,394,Fattoria Petrolo (Tenuta Petrolo),39 055 9911322,petrolo@petrolo.it,Dorne Waters,http://www.petrolo.it,43.47144,11.572536
+11228,Château Faugères,Completed,4.1,10,827,Château Faugères,33 05 57 40 34 99,info@chateau-faugeres.com,Silvio Denz,http://www.chateau-faugeres.com,44.8796,-0.096557
+2983,David Duband,Completed,3.9,41,385,Domaine David Duband,+33 3 80 61 41 16,domaine.duband@wanadoo.fr,,http://www.domaine-duband.com/en/,46.642,2.338
+5290,Tabali,Completed,3.7,74,886,Viña Tabali, (56-2) 4775530,info@tabali.com,Yanira Maldonado,http://www.tabali.com,-33.398983,-70.58839
+1894,Domaine de Trévallon,Completed,4.2,8,3079,Domaine de Trévallon,33 04 9049 0600,info@domainedetrevallon.com,,http://www.domainedetrevallon.com,43.780525,4.722699
+176721,Château l'Évangile,Completed,4.4,2,555,Château l'Évangile,+33 (0)5 57 55 45 56,levangile@lafite.com,Château l'Evangile,http://www.lafite.com/,,
+31558,Fleur La Mothe,Completed,3.6,3,393,Château Fleur La Mothe,556623501,,,http://chateaufleurlamothe.fr/index.html,,
+23172,Château des Adouzes,Completed,3.7,7,833,Château des Adouzes,+33 4 67 98 63 33,,,https://chateaudesadouzes.com/,,
+2665,Couly-Dutheil,Completed,3.7,42,501,Domaine Couly-Dutheil,+33 02 47 97 20 20,info@coulydutheil-chinon.com,René Couly,http://coulydutheil-chinon.com,47.16739,0.250729
+56303,Stephane Montez - Domaine du Monteillet,Completed,4.1,24,400,Stephane Montez - Domaine du Monteillet,0474872457,stephanemontez@aol.com,,http://www.montez.fr/,,
+11340,Château Paloumey,Completed,3.8,2,427,Château Paloumey,0557880066,info@chateaupaloumey.com,Martin Cazeneuve,http://www.chateaupaloumey.com/en/,44.984577,-0.631106
+197194,Clos de l'Oratoire,Completed,4.1,1,827,Clos de l'Oratoire,33 (0) 557 247 133,,Stephan von Neipperg,http://www.neipperg.com,44.881897,-0.142721
+176722,Château Lafite Rothschild,Completed,4.6,11,393,Château Lafite Rothschild,33 (0) 1 53 89 78 00,dbr@lafite.com,Christophe Congé,http://www.lafite.com/,,
+1500,Francis Ford Coppola,Completed,3.8,146,24,Francis Ford Coppola Winery (Coppola),7078571400,info@ffcpresents.com,Corey Beck,https://francisfordcoppolawinery.com,38.679516,-122.887825
+5432,Château de Tracy,Completed,4.0,8,759,Château de Tracy,+ 33 03 86 26 15 12,contact@chateau-de-tracy.com,d\'Estutt d\'Assay,http://www.chateau-de-tracy.com,47.320423,2.888033
+32744,Château Barde-Haut,Completed,3.9,2,827,Château Barde-Haut,,,,,,
+1682,Château Grand Mayne,Completed,4.1,3,827,Château Grand Mayne,33 (0)5 57 74 42 50,grand-mayne@grand-mayne.com,Marie Françoise,http://www.grand-mayne.com,44.881897,-0.142721
+13856,Brotte,Completed,3.9,122,401,Maison Brotte,33 (0)4 90 83 70 07,france@brotte.com,Laurent Charles Brotte,http://www.brotte.com,44.164158,5.005164
+8754,Clos Fourtet,Completed,4.2,4,827,Clos Fourtet,33 05 5724 7090,closfourtet@closfourtet.com,Philippe  Cuvelier,http://www.closfourtet.com/,44.881897,-0.142721
+57308,Château Mauvesin Barton,Completed,3.5,6,417,Château Mauvesin Barton,33556584181,,,http://www.mauvesin-barton.com/,,
+3637,Château Picque Caillou,Completed,3.9,5,471,Château Picque Caillou,33 05 56 47 37 98,contact@picque-caillou.com,,http://www.picque-caillou.com,44.838196,-0.640576
+65068,Château des Gravierès,Completed,3.8,15,383,Château des Gravierès,,,,,,
+4941,Château Moulinet,Completed,3.9,3,555,Château Moulinet,33 05 57 74 43 11,,,,44.881897,-0.142721
+102196,Château Laville Bertrou,Completed,3.9,7,833,Château Laville Bertrou,+33468914920,,Dorne Waters,http://www.gerard-bertrand.com/en/domaines/chateau-laville-bertr,43.31119,2.638092
+16713,Château Deyrem Valentin,Completed,3.9,1,384,Château Deyrem Valentin,33 557883570,,,http://www.chateau-deyrem-valentin.com/en/wines.html,46.642,2.338
+1697,Château Pesquie,Completed,3.7,26,714,Château Pesquiè,33 04 9061 9408,contact@chateaupesquie.com,,http://www.chateaupesquie.com,44.03278,5.247552
+12640,Joseph Mellot,Completed,3.8,64,729,Joseph Mellot,6462295962,corentin.chon@josephmellot.com,,http://www.josephmellot.com,47.33988,2.248117
+3404,Château de la Dauphine,Completed,3.7,4,457,Château de la Dauphine,05 57 74 06 61,contact@chateau-dauphine.com,Jean Halley,http://www.chateau-dauphine.com/en/,44.934307,-0.290182
+3114,Château Tour de Pez,Completed,3.7,7,456,Château Tour de Pez,33 5 5659 3160,,Franck Dupart,,45.259968,-0.79212
+11472,Giacomo Conterno,Completed,4.4,18,613,Azienda Vitivinicola Giacomo Conterno,0039 0173 78 221,conterno@conterno.it,Giacomo Conterno,http://www.conterno.it,,
+11092,Minuty,Completed,3.9,22,450,Château Minuty,33 04 94 56 12 09,info@minuty.fr,Francoisn  Matto,http://www.chateauminuty.com,43.28665,6.570012
+11771,Domaine Félines Jourdan,Completed,3.6,19,833,Domaine Félines Jourdan,33 04 67 43 69 29,claude@felines-jourdan.com,,http://www.felines-jourdan.com,43.42375,3.608865
+202575,Domaine Les Pallières,Completed,3.9,6,401,Domaine Les Pallières,33 04 9033 0031,daniel@brunier.fr,Daniel et Fredrick Brunier,http://www.vignoblesbrunier.fr,44.024483,4.883015
+202577,Le Pigeoulet des Brunier,Completed,3.8,3,3224,Le Pigeoulet des Brunier,33 04 9033 0031,daniel@brunier.fr,Daniel et Fredrick Brunier,http://www.vignoblesbrunier.fr,44.024483,4.883015
+1960,Éric Texier,Completed,3.8,39,400,Éric Texier,+33 04 72 54 45 93,vins@eric-texier.com,,http://www.eric-texier.com,45.90157,4.663859
+1602,Domaine Santa Duc,Completed,3.8,30,437,Domaine Santa Duc - Famille Gras,+33490658449,benjamin@santaduc.fr,Yves Gras,http://www.santaduc.fr,44.1639,4.986857
+4735,Charles et Francois Tardy,Completed,3.9,10,607,Charles et Francois Tardy, ,,,,44.55304,5.6344
+16624,Chacra,Completed,4.0,12,755,Bodega Chacra,+54 298 154415032,chacra@bodegachacra.com,,http://www.bodegachacra.com,-39.034386,-67.32835
+2516,Château Petit Bocq,Completed,3.9,1,456,Château Petit Bocq,33 05 5659 3569,petitbocq@hotmail.com,Famille Lagneaux,http://www.chateau-petit-bocq.com,45.26101,-0.788391
+21255,Château Haut-Bages Monpelou,Completed,4.0,1,393,Château Haut-Bages Monpelou,,,,,,
+25857,Francois Carillon,Completed,4.1,29,396,Domaine François Carillon,03 80 21 00 80,domainef.carillon@free.fr,,http://www.francois-carillon.com,,
+30844,Bénédicte et Stéphane Tissot,Completed,4.0,65,767,Domaine Bénédicte et Stéphane Tissot (Domaine André et Mireille Tissot),0384660827,stephane.tissot.arbois@wanadoo.fr,Frederique Spencer,http://www.stephane-tissot.com/en/,,
+263801,Moon Twist,Completed,4.0,2,667,Moon Twist,,,,,,
+2211,Rocche dei Manzoni,Completed,4.1,31,389,Podere Rocche dei Manzoni di Valentino,,,,http://www.rocchedeimanzoni.it,,
+231611,Ao Yun (敖云葡萄园),Completed,4.0,1,4387,Ao Yun (敖云葡萄园),,,,https://www.lvmh.com/houses/wines-spirits/ao-yun/,,
+20680,Monte del Frá,Completed,3.9,60,460,Azienda Agricola Monte del Frá,39 045 510490,info@montedelfra.it,,http://www.montedelfra.it/,,
+22890,Château Lassègue,Completed,4.1,2,827,Château Lassègue,+33 (0) 5 57 24 19 49,info@chateau-lassegue.com,,http://www.chateau-lassegue.com/,,
+5202,Château Laroze,Completed,4.0,3,827,Château Laroze,33 05 57 24 79 79,,,http://www.laroze.com,44.869133,-0.168227
+1862,Château les Carmes Haut-Brion,Completed,4.0,2,471,Château les Carmes Haut-Brion,33 05 5693 2340,chateau@les-carmes-haut-brion.com,,http://www.les-carmes-haut-brion.com,44.816376,-0.618884
+2594,Château Petit-Village,Completed,4.1,2,555,Château Petit-Village,33 05 57 51 21 08,contact@petit-village.com,,http://www.petit-village.com,44.935345,-0.202473
+3577,Château Cantenac,Completed,3.8,8,827,Château Cantenac,330557513522,Contact@chateau-cantenac.fr,Roskam-Brunot Family,http://www.chateau-cantenac.fr,44.89495,-0.201738
+53258,Nicolas Joly,Completed,4.1,8,711,Nicolas Joly (Coulée de Serrant),33 02 41 72 22 32,,,http://www.coulee-de-serrant.com,,
+186640,Vieux Château Certan,Completed,4.3,2,555,Vieux Château Certan,33 05 57 51 17 33 ,info@vieuxchateaucertan.com,,http://www.vieuxchateaucertan.com/,,
+9624,Jean-Paul & Benoit Droin,Completed,4.0,18,428,Domaine Jean-Paul & Benoît Droin,+33 03 86 42 16 78,benoit@jeanpaulbenoit-droin.fr,Benoit Droin,http://www.jeanpaul-droin.fr,47.816093,3.802572
+6395,Château Dalem,Completed,3.8,4,457,Château Dalem,33 (0)557843418,,,http://www.chateaudalem.com,44.9603,-0.2763
+8028,Château d'Yquem,Completed,4.7,2,432,Château d'Yquem (formerly by Lur Saluces),,info@yquem.fr,Dorne Waters,http://www.yquem.com,44.53447,-0.343195
+2080,Tormaresca,Completed,3.8,28,548,Tormaresca,0883692631,tormaresca@tormaresca.it,Renzo Cotarella,http://www.tormaresca.it,41.100792,16.888443
+10514,Joh. Jos. Prüm,Completed,4.2,37,545,Weingut Joh. Jos. Prüm (J. J. Prüm),49 6531 3091,info@jjpruem.com,JJ Prüm,http://www.jjpruem.com,49.94153,7.046363
+34744,Louis Chèze,Completed,3.9,33,3075,Domaine Louis Chèze,33 (0)4 75 34 02 88,,,http://www.domainecheze.com/,,
+2198,Pierre Gaillard,Completed,3.9,59,2399,Domaine Pierre Gaillard,+33 04 74 87 13 10,vinsp.gaillard@wanadoo.fr,,http://www.domainespierregaillard.com/,45.387978,4.720715
+1893,Domaine La Barroche,Completed,4.1,7,840,Domaine La Barroche,33 04 90 83 71 94,contact@domainelabarroche.com,Julien Barrot,http://www.domainelabarroche.com,44.057682,4.832523
+4513,Peyre Rose,Completed,4.4,6,833,Domaine de Peyre Rose,33 (0)4 67 98 75 50,peyrerose@orange.fr,Marlene Soria,,43.52691,3.523365
+57072,Château Lafont Menaut,Completed,3.7,5,471,Château Lafont Menaut,,,,,,
+3814,Château Mourgues du Grès,Completed,3.6,18,791,Château Mourgues du Grès,330466594610 ,chateau@mourguesdugres.com,,http://www.mourguesdugres.com,43.823536,4.560189
+3134,Château Corbin,Completed,3.8,8,827,Château Corbin,33 05 57 25 20 30,contact@chateau-corbin.com,Anabelle Cruse-Bardinet,http://www.chateau-corbin.com,46.642,2.338
+15086,Château Saint-Jean,Completed,3.7,3,401,Château Saint-Jean,+33 04 90 65 88 93,chateau.raspail@wanadoo.fr,,,44.174446,4.918889
+50849,Château Haut Nouchet,Completed,3.8,18,471,Château Haut Nouchet,033 5 57 12 07 63,,,http://www.hautnouchet.com/,,
