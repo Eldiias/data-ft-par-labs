@@ -33,11 +33,11 @@ Questions the data would be used to answer included:
 
 To analyze the datasets and answer the above questions, the following steps were carried out:
 
-i. The 5 datasets were imported and converted using pandas to dataframes to facilate cleaning and restructuring.<br/>
-ii. Years were added accordingly to each dataframe for time referencing.<br/>
-iii. The various dataframe columns renamed as needed to facilitate concatenation.<br/>
-iv. Some dataframes (2017-2019) were missing the regions data, thus defining lists of countries for each region. A function was then defined to create the Regions dcolumn in these dataframes and fill the Region as per the country accordingly.<br/>
-v. The 5 dataframes are all concatenated and unecessary columns dropped and final dataframe checked to ensure it was the right shape and there were no duplicates nor missiing values.<br/>
+i.    The 5 datasets were imported and converted using pandas to dataframes to facilate cleaning and restructuring.<br/>
+ii.   Years were added accordingly to each dataframe for time referencing.<br/>
+iii.  The various dataframe columns renamed as needed to facilitate concatenation.<br/>
+iv.   Some dataframes (2017-2019) were missing the regions data, thus defining lists of countries for each region. A function was then defined to create the Regions dcolumn in these dataframes and fill the Region as per the country accordingly.<br/>
+v.    The 5 dataframes are all concatenated and unecessary columns dropped and final dataframe checked to ensure it was the right shape and there were no duplicates nor missiing values.<br/>
 
 ### Step 3: Data Analysis and Visualization
 
