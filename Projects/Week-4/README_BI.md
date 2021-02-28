@@ -69,7 +69,7 @@ Some of the insigts derived from these datasets are as below:
   - And finally, the Economy and Health and Life Expectancy have the strongest correlation with teh happiness scoring.
  
  
-*Check the jupyter file for visuals*
+*Check the jupyter file for visualisations*
 
 
 
