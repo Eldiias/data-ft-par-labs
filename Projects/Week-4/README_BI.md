@@ -68,6 +68,8 @@ Some of the insigts derived from these datasets are as below:
   - Freedom and Family have a fairly strong correlation with the happiness scoring thus fairly strongly affects a country's happiness.
   - And finally, the Economy and Health and Life Expectancy have the strongest correlation with teh happiness scoring.
  
+ 
+*Check the jupyter file for visuals*
 
 
 
