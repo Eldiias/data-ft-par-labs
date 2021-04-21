@@ -24,7 +24,7 @@ Your output will look something like below:
 
 We assume that people move out from their places if they start paying more for their appartment. Find all those people.
 
-![Challenge 1 output](Challenge-1.png)
+![Challenge 1 output](Challenge-2.png)
 
 ## Challenge 3 - Best Selling Districts
 
