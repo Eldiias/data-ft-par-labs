@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab you will practice how to import a database into MySQL and obtain interesting insights. **You will use the `finance` database that you can download [here](https://srv-file5.gofile.io/download/4OZZC5/finance.zip).
+In this lab you will practice how to import a database into MySQL and obtain interesting insights. **You will use the `finance` database**. Unzip the `finance.zip` archive and upload it to your MySQL database.
 
 You will create a `solutions.sql` file in the `your-code` directory to record your solutions to all challenges.
 
