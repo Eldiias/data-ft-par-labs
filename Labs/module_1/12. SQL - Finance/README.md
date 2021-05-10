@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab you will practice how to import a database into MySQL and obtain interesting insights. **You will use the `finance` database that you can download [here](https://srv-file5.gofile.io/download/4OZZC5/finance.zip).
+In this lab you will practice how to import a database into MySQL and obtain interesting insights. **You will use the `finance` database**. Unzip the `finance.zip` archive and upload it to your MySQL database.
 
 You will create a `solutions.sql` file in the `your-code` directory to record your solutions to all challenges.
 
@@ -18,13 +18,13 @@ In this challenge you will write a query to calculate how many accounts were cre
 You need to select Top 5 districts.
 Your output will look something like below:
 
-![Challenge 1 output](challenge-1.png)
+![Challenge 1 output](Challenge-1.png)
 
 ## Challenge 2 - How many people changed their place of residence?
 
 We assume that people move out from their places if they start paying more for their appartment. Find all those people.
 
-![Challenge 1 output](challenge-1.png)
+![Challenge 1 output](Challenge-2.png)
 
 ## Challenge 3 - Best Selling Districts
 
